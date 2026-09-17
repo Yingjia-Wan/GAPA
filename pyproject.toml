@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gapa"
+version = "1.0.0"
+description = "GAPA: Gender Associations of Physical Attributes (COLM 2026)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []  # see requirements.txt; kept separate so `pip install -e .` stays fast
+
+[tool.setuptools]
+packages = ["gapa"]

@@ -1,0 +1,207 @@
+{
+  "description": "Ablation study configurations - cross-validation",
+  "eval_only": false,
+  "results_base": "results",
+  "input_data_base": "llm",
+  "val_size": 0.15,
+  "test_size": 0.25,
+  "random_seeds": [
+    42
+  ],
+  "use_run_cache": true,
+  "max_parallel": 2,
+  "data_types": {
+    "avg": {
+      "extract_type": "avg",
+      "description": "Averaged ratings per attribute-person pair"
+    }
+  },
+  "models": {
+    "llama3_8b_instruct": {
+      "model_name": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "description": "Instruction-tuned Llama 3 8B",
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "llama3_8b_base": {
+      "model_name": "meta-llama/Meta-Llama-3-8B",
+      "description": "Base Llama 3 8B (non-instruct)",
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "mistral_7b_instruct": {
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "description": "Mistral 7b Instruct",
+      "trust_remote_code": true,
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "mistral_7b_base": {
+      "model_name": "mistralai/Mistral-7B-v0.3",
+      "description": "Mistral 7b Base",
+      "trust_remote_code": true,
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "qwen25_3b_base": {
+      "model_name": "Qwen/Qwen2.5-3B",
+      "description": "Qwen2.5 3B Base",
+      "learning_rate": [
+        2e-05,
+        5e-05,
+        0.0001,
+        0.0002
+      ]
+    },
+    "qwen25_3b_instruct": {
+      "model_name": "Qwen/Qwen2.5-3B-Instruct",
+      "description": "Qwen2.5 3B Instruct",
+      "learning_rate": [
+        2e-05,
+        5e-05,
+        0.0001,
+        0.0002
+      ]
+    },
+    "qwen25_7b_base": {
+      "model_name": "Qwen/Qwen2.5-7B",
+      "description": "Qwen2.5 7B Base",
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "qwen25_7b_instruct": {
+      "model_name": "Qwen/Qwen2.5-7B-Instruct",
+      "description": "Qwen2.5 7B Instruct",
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "qwen25_14b_instruct": {
+      "model_name": "Qwen/Qwen2.5-14B-Instruct",
+      "description": "Qwen2.5 14B Instruct",
+      "learning_rate": [
+        5e-06,
+        1e-05,
+        2e-05,
+        5e-05
+      ]
+    },
+    "qwen25_14b_base": {
+      "model_name": "Qwen/Qwen2.5-14B",
+      "description": "Qwen2.5 14B Base",
+      "learning_rate": [
+        5e-06,
+        1e-05,
+        2e-05,
+        5e-05
+      ]
+    },
+    "qwen25_32b_base": {
+      "model_name": "Qwen/Qwen2.5-32B",
+      "description": "Qwen2.5 32B Base",
+      "learning_rate": [
+        3e-06,
+        5e-06,
+        1e-05,
+        2e-05
+      ]
+    },
+    "qwen25_32b_instruct": {
+      "model_name": "Qwen/Qwen2.5-32B-Instruct",
+      "description": "Qwen2.5 32B Instruct",
+      "learning_rate": [
+        3e-06,
+        5e-06,
+        1e-05,
+        2e-05
+      ]
+    },
+    "olmo2_7b_base": {
+      "model_name": "allenai/OLMo2-7B-1124",
+      "description": "OLMo-2 7B Base Model",
+      "trust_remote_code": true,
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "olmo2_7b_sft": {
+      "model_name": "allenai/OLMo-2-1124-7B-SFT",
+      "description": "OLMo-2 7B SFT (Supervised Fine-Tuning)",
+      "trust_remote_code": true,
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "olmo2_7b_dpo": {
+      "model_name": "allenai/OLMo-2-1124-7B-DPO",
+      "description": "OLMo-2 7B DPO (Direct Preference Optimization)",
+      "trust_remote_code": true,
+      "learning_rate": [
+        1e-05,
+        2e-05,
+        5e-05,
+        0.0001
+      ]
+    },
+    "gpt_oss_20b": {
+      "model_name": "openai/gpt-oss-20b",
+      "description": "OpenAI GPT-OSS 20B",
+      "trust_remote_code": true,
+      "learning_rate": [
+        5e-06,
+        1e-05,
+        2e-05,
+        5e-05
+      ]
+    }
+  },
+  "prompts": {
+    "allowed": [
+      "direct"
+    ]
+  },
+  "hyperparameter_grid": {
+    "batch_size": [
+      2,
+      4,
+      8
+    ],
+    "lora_r": [
+      8,
+      16
+    ],
+    "lora_alpha": [
+      16,
+      32
+    ]
+  }
+}

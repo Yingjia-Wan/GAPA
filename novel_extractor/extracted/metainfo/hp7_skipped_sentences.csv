@@ -1,0 +1,2 @@
+sentence_idx,text,error
+266,"Tears were sliding down from behind the half-moon  spectacles into the long silver beard, and the pride and the gratitude emanating from him  filled Harry wit h the same balm as phoenix song.",ContentFilterFinishReasonError: Could not parse response content as the request was rejected by the content filter

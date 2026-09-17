@@ -1,0 +1,18 @@
+======================================================================
+EVALUATION REPORT
+======================================================================
+
+Model: results_further/avg_olmo2_7b_base_direct_bs8_lr1e-4_alpha16_r16/run_20260326_000747/seed123/final_model
+Data: data/merged/seed123/avg_direct/training_data.csv
+Eval split: test
+Data format: row_level (1 output(s))
+Device: cuda
+
+======================================================================
+METRICS BY CATEGORY
+======================================================================
+man                  | MSE:  0.4872 | RMSE:  0.6980 | MAE:  0.5600 | Corr:  0.717
+nonbinary person     | MSE:  0.2872 | RMSE:  0.5359 | MAE:  0.4237 | Corr:  0.590
+woman                | MSE:  0.4266 | RMSE:  0.6531 | MAE:  0.5276 | Corr:  0.807
+mean                 | MSE:  0.4004 | RMSE:  0.6327 | MAE:  0.5038 | Corr:  0.764
+======================================================================

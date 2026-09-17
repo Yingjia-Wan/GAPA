@@ -1,0 +1,127 @@
+attribute,person_term,generation,method1_rating,method2_rating,model,logit_1,logit_2,logit_3,logit_4,logit_5,logit_6,logit_7,avg_rating
+a button nose,man,3,3,,gpt-5.2,,,,,,,,3.7777777777777777
+a button nose,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.806451612903226
+a button nose,woman,4,4,,gpt-5.2,,,,,,,,5.176470588235294
+a chiseled jawline,man,4,4,,gpt-5.2,,,,,,,,6.0
+a chiseled jawline,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.769230769230769
+a chiseled jawline,woman,4,4,,gpt-5.2,,,,,,,,2.217391304347826
+a clear complexion,man,5,5,,gpt-5.2,,,,,,,,4.166666666666667
+a clear complexion,nonbinary person,4,4,,gpt-5.2,,,,,,,,5.071428571428571
+a clear complexion,woman,6,6,,gpt-5.2,,,,,,,,5.85
+a crew cut,man,5,5,,gpt-5.2,,,,,,,,5.764705882352941
+a crew cut,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.611111111111111
+a crew cut,woman,4,4,,gpt-5.2,,,,,,,,2.6666666666666665
+a defined waist,man,3,3,,gpt-5.2,,,,,,,,2.933333333333333
+a defined waist,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.7777777777777777
+a defined waist,woman,4,4,,gpt-5.2,,,,,,,,6.083333333333333
+a downturned mouth,man,4,4,,gpt-5.2,,,,,,,,3.375
+a downturned mouth,nonbinary person,1,1,,gpt-5.2,,,,,,,,4.777777777777778
+a downturned mouth,woman,4,4,,gpt-5.2,,,,,,,,3.375
+a firm jaw,man,5,5,,gpt-5.2,,,,,,,,6.1
+a firm jaw,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.307692307692308
+a firm jaw,woman,3,3,,gpt-5.2,,,,,,,,3.2
+a flushed complexion,man,5,5,,gpt-5.2,,,,,,,,3.25
+a flushed complexion,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.2
+a flushed complexion,woman,5,5,,gpt-5.2,,,,,,,,5.294117647058823
+a graceful build,man,3,3,,gpt-5.2,,,,,,,,3.45
+a graceful build,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.954545454545455
+a graceful build,woman,4,4,,gpt-5.2,,,,,,,,5.625
+a kissable mouth,man,4,4,,gpt-5.2,,,,,,,,4.571428571428571
+a kissable mouth,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.8333333333333335
+a kissable mouth,woman,4,4,,gpt-5.2,,,,,,,,5.727272727272728
+a receding hairline,man,4,4,,gpt-5.2,,,,,,,,6.5625
+a receding hairline,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.6875
+a receding hairline,woman,3,3,,gpt-5.2,,,,,,,,3.6875
+a round face,man,4,4,,gpt-5.2,,,,,,,,4.368421052631579
+a round face,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.6923076923076925
+a round face,woman,4,4,,gpt-5.2,,,,,,,,5.75
+a rugged jawline,man,5,5,,gpt-5.2,,,,,,,,5.933333333333334
+a rugged jawline,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.2631578947368425
+a rugged jawline,woman,3,3,,gpt-5.2,,,,,,,,2.6923076923076925
+a sharp face,man,4,4,,gpt-5.2,,,,,,,,5.384615384615385
+a sharp face,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.15
+a sharp face,woman,4,4,,gpt-5.2,,,,,,,,3.888888888888889
+a shiny scalp,man,4,4,,gpt-5.2,,,,,,,,4.642857142857143
+a shiny scalp,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.0588235294117645
+a shiny scalp,woman,3,3,,gpt-5.2,,,,,,,,2.833333333333333
+a slim build,man,5,5,,gpt-5.2,,,,,,,,5.055555555555555
+a slim build,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.681818181818182
+a slim build,woman,6,6,,gpt-5.2,,,,,,,,4.666666666666667
+a smooth complexion,man,5,5,,gpt-5.2,,,,,,,,4.294117647058823
+a smooth complexion,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.857142857142857
+a smooth complexion,woman,6,6,,gpt-5.2,,,,,,,,6.411764705882353
+a straight nose,man,6,6,,gpt-5.2,,,,,,,,4.888888888888889
+a straight nose,nonbinary person,1,1,,gpt-5.2,,,,,,,,4.260869565217392
+a straight nose,woman,5,5,,gpt-5.2,,,,,,,,6.083333333333333
+a sturdy posture,man,4,4,,gpt-5.2,,,,,,,,5.5
+a sturdy posture,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.95
+a sturdy posture,woman,4,4,,gpt-5.2,,,,,,,,4.125
+a toned build,man,5,5,,gpt-5.2,,,,,,,,5.4
+a toned build,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.461538461538462
+a toned build,woman,5,5,,gpt-5.2,,,,,,,,4.8125
+blonde,man,1,1,,gpt-5.2,,,,,,,,4.2
+blonde,nonbinary person,1,1,,gpt-5.2,,,,,,,,4.2105263157894735
+blonde,woman,1,1,,gpt-5.2,,,,,,,,5.15
+bushy eyebrows,man,5,5,,gpt-5.2,,,,,,,,4.5
+bushy eyebrows,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.066666666666666
+bushy eyebrows,woman,4,4,,gpt-5.2,,,,,,,,4.190476190476191
+close-cropped hair,man,5,5,,gpt-5.2,,,,,,,,5.5
+close-cropped hair,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.642857142857143
+close-cropped hair,woman,4,4,,gpt-5.2,,,,,,,,3.7777777777777777
+deep forehead lines,man,5,5,,gpt-5.2,,,,,,,,5.133333333333334
+deep forehead lines,nonbinary person,1,1,,gpt-5.2,,,,,,,,4.35
+deep forehead lines,woman,4,4,,gpt-5.2,,,,,,,,4.153846153846154
+defined eyebrows,man,4,4,,gpt-5.2,,,,,,,,4.0
+defined eyebrows,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.5
+defined eyebrows,woman,5,5,,gpt-5.2,,,,,,,,6.083333333333333
+downturned eyes,man,4,4,,gpt-5.2,,,,,,,,4.2727272727272725
+downturned eyes,nonbinary person,1,1,,gpt-5.2,,,,,,,,3.625
+downturned eyes,woman,4,4,,gpt-5.2,,,,,,,,3.555555555555556
+emerald eyes,man,3,3,,gpt-5.2,,,,,,,,3.65
+emerald eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.181818181818182
+emerald eyes,woman,4,4,,gpt-5.2,,,,,,,,3.75
+full cheeks,man,4,4,,gpt-5.2,,,,,,,,3.5384615384615383
+full cheeks,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.0
+full cheeks,woman,4,4,,gpt-5.2,,,,,,,,5.333333333333333
+hollow cheeks,man,4,4,,gpt-5.2,,,,,,,,4.0
+hollow cheeks,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.571428571428572
+hollow cheeks,woman,4,4,,gpt-5.2,,,,,,,,3.923076923076923
+hooded eyes,man,5,5,,gpt-5.2,,,,,,,,3.8333333333333335
+hooded eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.6666666666666665
+hooded eyes,woman,4,4,,gpt-5.2,,,,,,,,4.222222222222222
+intense eyes,man,5,5,,gpt-5.2,,,,,,,,5.3478260869565215
+intense eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.157894736842105
+intense eyes,woman,4,4,,gpt-5.2,,,,,,,,5.916666666666667
+olive skin,man,4,4,,gpt-5.2,,,,,,,,4.0
+olive skin,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.307692307692308
+olive skin,woman,4,4,,gpt-5.2,,,,,,,,5.533333333333333
+piercing eyes,man,5,5,,gpt-5.2,,,,,,,,5.333333333333333
+piercing eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,4.733333333333333
+piercing eyes,woman,5,5,,gpt-5.2,,,,,,,,5.0
+plump lips,man,4,4,,gpt-5.2,,,,,,,,3.4
+plump lips,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.4545454545454546
+plump lips,woman,4,4,,gpt-5.2,,,,,,,,5.681818181818182
+sleepy eyes,man,4,4,,gpt-5.2,,,,,,,,4.444444444444445
+sleepy eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.692307692307693
+sleepy eyes,woman,4,4,,gpt-5.2,,,,,,,,4.411764705882353
+sloped shoulders,man,4,4,,gpt-5.2,,,,,,,,4.8
+sloped shoulders,nonbinary person,1,1,,gpt-5.2,,,,,,,,3.6666666666666665
+sloped shoulders,woman,3,3,,gpt-5.2,,,,,,,,3.4545454545454546
+square shoulders,man,4,4,,gpt-5.2,,,,,,,,5.6875
+square shoulders,nonbinary person,1,1,,gpt-5.2,,,,,,,,4.352941176470588
+square shoulders,woman,3,3,,gpt-5.2,,,,,,,,3.1333333333333333
+sun-damaged skin,man,4,4,,gpt-5.2,,,,,,,,5.166666666666667
+sun-damaged skin,nonbinary person,1,1,,gpt-5.2,,,,,,,,3.6
+sun-damaged skin,woman,4,4,,gpt-5.2,,,,,,,,5.8
+sun-kissed skin,man,4,4,,gpt-5.2,,,,,,,,3.1666666666666665
+sun-kissed skin,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.5
+sun-kissed skin,woman,5,5,,gpt-5.2,,,,,,,,6.05
+tousled curls,man,4,4,,gpt-5.2,,,,,,,,3.0
+tousled curls,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.263157894736842
+tousled curls,woman,4,4,,gpt-5.2,,,,,,,,5.125
+upturned eyes,man,3,3,,gpt-5.2,,,,,,,,3.75
+upturned eyes,nonbinary person,1,1,,gpt-5.2,,,,,,,,3.066666666666667
+upturned eyes,woman,4,4,,gpt-5.2,,,,,,,,4.3125
+wide-set eyes,man,3,3,,gpt-5.2,,,,,,,,4.476190476190476
+wide-set eyes,nonbinary person,4,4,,gpt-5.2,,,,,,,,3.6666666666666665
+wide-set eyes,woman,4,4,,gpt-5.2,,,,,,,,4.375

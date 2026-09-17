@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 Yingjia Wan, Lin L. Lin, Elisa Kreiss
+(University of California, Los Angeles)
+
+This license covers both the code and the data in this repository, including the
+GAPA gender-association ratings and the extracted physical-attribute tables.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY MATERIAL
+
+The MIT grant above covers material authored by the GAPA authors. It does not and
+cannot relicense third-party material:
+
+- novel_extractor/extracted/*_physattr.csv and novel_extractor/source/litbank/
+  derive from LitBank (Bamman et al., 2019), which is distributed under CC BY 4.0,
+  and from Project Gutenberg public-domain texts. Retain LitBank's attribution.
+
+- Sentences quoted from in-copyright novels remain the property of their respective
+  rights holders and are included only as short excerpts for research. No rights in
+  those works are granted here. Full source texts of in-copyright works are not
+  distributed with this repository; see novel_extractor/source/README.md.
+
+- The released predictor inherits Apache-2.0 from its OLMo-2-7B base model:
+  https://huggingface.co/alisa-yingjia-wan/gapa-predictor-olmo2-7b

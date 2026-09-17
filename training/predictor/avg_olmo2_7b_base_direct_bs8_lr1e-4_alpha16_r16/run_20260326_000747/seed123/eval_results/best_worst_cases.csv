@@ -1,0 +1,81 @@
+attribute,rmse,predicted_mean,true_mean,case_type,category,person_term,predicted,true,error
+a confident posture,0.089049146,4.6835938,4.722488,best,mean,,,,
+a ponytail,0.119173825,4.5078125,4.590278,best,mean,,,,
+hooded eyes,0.16405585,3.9960938,3.9074075,best,mean,,,,
+dark scornful eyes,0.17612788,3.9570312,4.0873437,best,mean,,,,
+a small mouth,0.17893828,4.3984375,4.4966407,best,mean,,,,
+smooth skin,0.1948475,4.96875,5.027887,best,mean,,,,
+hair worn straight down a back,0.19577603,4.5234375,4.3300653,best,mean,,,,
+a flat stomach,0.20373344,5.0546875,5.052381,best,mean,,,,
+a wide jawline,0.21249044,4.171875,4.052832,best,mean,,,,
+a square jaw,0.21320397,4.3945312,4.375,best,mean,,,,
+a defined waist,1.2406284,4.65625,4.264815,worst,mean,,,,
+close-cropped hair,1.223014,5.359375,4.306878,worst,mean,,,,
+pumped lips,1.1783353,3.4023438,4.098413,worst,mean,,,,
+a snarl on a face,1.0710503,3.1523438,4.1802235,worst,mean,,,,
+too bright eyes,1.0447426,3.8164062,2.7858078,worst,mean,,,,
+fury-filled eyes,1.0305109,3.0585938,3.5893161,worst,mean,,,,
+a thin scraggle of beard,1.0081259,3.4882812,3.7703702,worst,mean,,,,
+sun-kissed skin,1.0011706,4.75,4.2388887,worst,mean,,,,
+not so fine features,0.9862902,3.8632812,4.4683814,worst,mean,,,,
+a graceful figure,0.9718857,4.3359375,3.8058608,worst,mean,,,,
+a soft jaw,0.0078125,,,best,woman,woman,4.8203125,4.8125,0.0078125
+hooded eyes,0.011284828,,,best,woman,woman,4.2109375,4.2222223,-0.011284828
+not so fine features,0.0114889145,,,best,woman,woman,4.0703125,4.0588236,0.0114889145
+almond-shaped eyes,0.012152672,,,best,woman,woman,5.265625,5.2777777,-0.012152672
+frizzy hair,0.03125,,,best,woman,woman,5.59375,5.625,-0.03125
+a confident posture,0.042762756,,,best,woman,woman,4.9375,4.8947372,0.042762756
+dark scornful eyes,0.0703125,,,best,woman,woman,3.9296875,4.0,-0.0703125
+an awkward face,0.082261086,,,best,woman,woman,3.9765625,4.0588236,-0.082261086
+a receding hairline,0.1015625,,,best,woman,woman,3.7890625,3.6875,0.1015625
+a flat stomach,0.106250286,,,best,woman,woman,5.40625,5.2999997,0.106250286
+pumped lips,1.7721357,,,worst,woman,woman,3.8945312,5.666667,-1.7721357
+close-cropped hair,1.6987848,,,worst,woman,woman,5.4765625,3.7777777,1.6987848
+a fringe of thin black hair,1.440625,,,worst,woman,woman,4.140625,2.7,1.440625
+a snarl on a face,1.3391337,,,worst,woman,woman,2.9335938,4.2727275,-1.3391337
+a chiseled jawline,1.2787025,,,worst,woman,woman,3.4960938,2.2173913,1.2787025
+a slim build,1.278646,,,worst,woman,woman,5.9453125,4.6666665,1.278646
+a shaved head,1.2052083,,,worst,woman,woman,3.671875,2.4666667,1.2052083
+a puffy face,1.15625,,,worst,woman,woman,4.09375,5.25,-1.15625
+a statuesque build,1.1500001,,,worst,woman,woman,4.75,3.6,1.1500001
+tight curls,1.078125,,,worst,woman,woman,5.828125,4.75,1.078125
+a ponytail,0.0057291985,,,best,man,man,3.4609375,3.4666667,-0.0057291985
+a small mouth,0.0085225105,,,best,man,man,4.28125,4.2727275,0.0085225105
+dark scornful eyes,0.024816036,,,best,man,man,4.328125,4.352941,-0.024816036
+a statuesque build,0.050480843,,,best,man,man,4.28125,4.230769,0.050480843
+a square jaw,0.0546875,,,best,man,man,5.5703125,5.625,-0.0546875
+a bulbous nose,0.060267925,,,best,man,man,4.703125,4.642857,0.060267925
+double eyelid,0.082812786,,,best,man,man,4.1171875,4.2000003,-0.082812786
+eyes like coals,0.09272194,,,best,man,man,3.5664062,3.4736843,0.09272194
+a pointed chin,0.102306366,,,best,man,man,5.0546875,4.952381,0.102306366
+a high forehead,0.10677099,,,best,man,man,4.7734375,4.6666665,0.10677099
+a defined waist,1.9104166,,,worst,man,man,4.84375,2.9333334,1.9104166
+fury-filled eyes,1.7192707,,,worst,man,man,3.4140625,5.133333,-1.7192707
+not so fine features,1.7038355,,,worst,man,man,4.0234375,5.727273,-1.7038355
+sun-kissed skin,1.466146,,,worst,man,man,4.6328125,3.1666665,1.466146
+a thin scraggle of beard,1.4262152,,,worst,man,man,4.3515625,5.7777777,-1.4262152
+pale-blue eyes,1.2494421,,,worst,man,man,3.9648438,5.214286,-1.2494421
+a receding hairline,1.1796875,,,worst,man,man,5.3828125,6.5625,-1.1796875
+too bright eyes,1.1568079,,,worst,man,man,3.8710938,2.7142859,1.1568079
+a snarl on a face,1.1237664,,,worst,man,man,3.5078125,4.631579,-1.1237664
+tight curls,1.109375,,,worst,man,man,4.609375,3.5,1.109375
+hooded eyes,0.006510496,,,best,nonbinary,nonbinary person,3.6601562,3.6666667,-0.006510496
+a small mouth,0.006610632,,,best,nonbinary,nonbinary person,3.9296875,3.9230769,0.006610632
+a confident posture,0.01171875,,,best,nonbinary,nonbinary person,3.9882812,4.0,-0.01171875
+tight curls,0.014509201,,,best,nonbinary,nonbinary person,4.5859375,4.5714283,0.014509201
+crow's feet,0.02734375,,,best,nonbinary,nonbinary person,3.7773438,3.75,0.02734375
+a kissable mouth,0.037760496,,,best,nonbinary,nonbinary person,3.8710938,3.8333333,0.037760496
+a ponytail,0.0390625,,,best,nonbinary,nonbinary person,4.3984375,4.4375,-0.0390625
+a slim build,0.04900551,,,best,nonbinary,nonbinary person,4.6328125,4.681818,-0.04900551
+a wide brow,0.10078144,,,best,nonbinary,nonbinary person,3.8007812,3.6999998,0.10078144
+a lean facial structure,0.10866499,,,best,nonbinary,nonbinary person,4.1640625,4.2727275,-0.10866499
+a graceful figure,1.5223212,,,worst,nonbinary,nonbinary person,4.09375,2.5714288,1.5223212
+small watery blue eyes,1.247932,,,worst,nonbinary,nonbinary person,3.7773438,2.5294118,1.247932
+close-cropped hair,1.2477679,,,worst,nonbinary,nonbinary person,4.890625,3.642857,1.2477679
+eyes like coals,1.2473958,,,worst,nonbinary,nonbinary person,3.4140625,2.1666667,1.2473958
+a sharp nose,1.1703124,,,worst,nonbinary,nonbinary person,3.9296875,5.1,-1.1703124
+too bright eyes,1.1466146,,,worst,nonbinary,nonbinary person,3.6132812,2.4666667,1.1466146
+chapped lips,1.1115055,,,worst,nonbinary,nonbinary person,4.0703125,5.181818,-1.1115055
+a full goatee,1.0507812,,,worst,nonbinary,nonbinary person,3.6132812,2.5625,1.0507812
+a big build,0.9435096,,,worst,nonbinary,nonbinary person,3.671875,4.6153846,-0.9435096
+a large pink face,0.93142366,,,worst,nonbinary,nonbinary person,3.3203125,2.3888888,0.93142366

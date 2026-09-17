@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use GAPA, please cite the paper below."
+title: "GAPA: Gender Associations of Physical Attributes"
+abstract: >-
+  A dataset of 315 common physical attributes paired with 14,706 gender-association
+  ratings from 304 US-based annotators, plus code for evaluating 22 LLMs against those
+  human ratings and a trained proxy predictor.
+authors:
+  - family-names: Wan
+    given-names: Yingjia
+    affiliation: "University of California, Los Angeles"
+  - family-names: Lin
+    given-names: "Lin L."
+    affiliation: "University of California, Los Angeles"
+  - family-names: Kreiss
+    given-names: Elisa
+    affiliation: "University of California, Los Angeles"
+repository-code: "https://github.com/Yingjia-Wan/GAPA"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: >-
+    How Humans and LLMs Read Gender into "Gender-Neutral" Physical Descriptions
+  authors:
+    - family-names: Wan
+      given-names: Yingjia
+    - family-names: Lin
+      given-names: "Lin L."
+    - family-names: Kreiss
+      given-names: Elisa
+  collection-title: "Third Conference on Language Modeling"
+  year: 2026
+  url: "https://arxiv.org/abs/2609.16366"
+  # TODO: add doi / pages once the COLM proceedings entry exists (the arXiv preprint is
+  # the citable version until then).

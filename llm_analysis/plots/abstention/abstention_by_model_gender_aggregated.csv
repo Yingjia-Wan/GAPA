@@ -1,0 +1,67 @@
+model,person_term,missing_rating,text_abstention,abstention,total,pct_missing_rating,pct_text_abstention,pct_abstention
+Meta-Llama-3-8B,man,0,0,0,376,0.0,0.0,0.0
+Meta-Llama-3-8B,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Meta-Llama-3-8B,woman,0,0,0,376,0.0,0.0,0.0
+Meta-Llama-3-8B-Instruct,man,0,6,6,376,0.0,0.015957446808510637,0.015957446808510637
+Meta-Llama-3-8B-Instruct,nonbinary person,0,36,36,376,0.0,0.09574468085106383,0.09574468085106383
+Meta-Llama-3-8B-Instruct,woman,0,10,10,376,0.0,0.026595744680851064,0.026595744680851064
+Mistral-7B-Instruct-v0.3,man,0,2,2,376,0.0,0.005319148936170213,0.005319148936170213
+Mistral-7B-Instruct-v0.3,nonbinary person,0,44,44,376,0.0,0.11702127659574468,0.11702127659574468
+Mistral-7B-Instruct-v0.3,woman,0,2,2,376,0.0,0.005319148936170213,0.005319148936170213
+Mistral-7B-v0.3,man,0,0,0,376,0.0,0.0,0.0
+Mistral-7B-v0.3,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Mistral-7B-v0.3,woman,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,man,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,nonbinary person,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,woman,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,man,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,nonbinary person,0,0,0,376,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,woman,0,0,0,376,0.0,0.0,0.0
+OLMo2-7B-1124,man,0,0,0,376,0.0,0.0,0.0
+OLMo2-7B-1124,nonbinary person,0,0,0,376,0.0,0.0,0.0
+OLMo2-7B-1124,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-14B,man,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-14B,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-14B,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-14B-Instruct,man,6,8,14,376,0.015957446808510637,0.02127659574468085,0.03723404255319149
+Qwen2.5-14B-Instruct,nonbinary person,0,56,56,376,0.0,0.14893617021276595,0.14893617021276595
+Qwen2.5-14B-Instruct,woman,20,6,26,376,0.05319148936170213,0.015957446808510637,0.06914893617021277
+Qwen2.5-32B,man,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-32B,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-32B,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,man,0,6,6,376,0.0,0.015957446808510637,0.015957446808510637
+Qwen2.5-32B-Instruct,nonbinary person,0,64,64,376,0.0,0.1702127659574468,0.1702127659574468
+Qwen2.5-32B-Instruct,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-3B,man,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-3B,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-3B,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,man,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,nonbinary person,0,8,8,376,0.0,0.02127659574468085,0.02127659574468085
+Qwen2.5-3B-Instruct,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-7B,man,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-7B,nonbinary person,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-7B,woman,0,0,0,376,0.0,0.0,0.0
+Qwen2.5-7B-Instruct,man,0,2,2,376,0.0,0.005319148936170213,0.005319148936170213
+Qwen2.5-7B-Instruct,nonbinary person,0,48,48,376,0.0,0.1276595744680851,0.1276595744680851
+Qwen2.5-7B-Instruct,woman,0,4,4,376,0.0,0.010638297872340425,0.010638297872340425
+claude-opus-4-6,man,0,0,0,376,0.0,0.0,0.0
+claude-opus-4-6,nonbinary person,0,0,0,376,0.0,0.0,0.0
+claude-opus-4-6,woman,0,0,0,376,0.0,0.0,0.0
+gemini-3-flash-preview,man,0,0,0,376,0.0,0.0,0.0
+gemini-3-flash-preview,nonbinary person,60,16,62,376,0.1595744680851064,0.0425531914893617,0.16489361702127658
+gemini-3-flash-preview,woman,4,0,4,376,0.010638297872340425,0.0,0.010638297872340425
+gpt-4o,man,0,0,0,376,0.0,0.0,0.0
+gpt-4o,nonbinary person,0,0,0,376,0.0,0.0,0.0
+gpt-4o,woman,0,0,0,376,0.0,0.0,0.0
+gpt-4o-mini,man,0,0,0,376,0.0,0.0,0.0
+gpt-4o-mini,nonbinary person,0,0,0,376,0.0,0.0,0.0
+gpt-4o-mini,woman,0,0,0,376,0.0,0.0,0.0
+gpt-5.2,man,0,0,0,376,0.0,0.0,0.0
+gpt-5.2,nonbinary person,0,0,0,376,0.0,0.0,0.0
+gpt-5.2,woman,0,0,0,376,0.0,0.0,0.0
+gpt-oss-20b,man,0,0,0,376,0.0,0.0,0.0
+gpt-oss-20b,nonbinary person,0,0,0,376,0.0,0.0,0.0
+gpt-oss-20b,woman,0,0,0,376,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,man,0,0,0,376,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,nonbinary person,0,0,0,376,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,woman,0,0,0,376,0.0,0.0,0.0

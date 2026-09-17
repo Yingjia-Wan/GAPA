@@ -1,0 +1,945 @@
+novel_name,attribute,count,frequency
+gameofthrones1,wrinkled flesh,1,0.16420361247947454
+gameofthrones1,papery thin skin,1,0.16420361247947454
+gameofthrones1,web of veins,1,0.16420361247947454
+gameofthrones1,shape of bones beneath,1,0.16420361247947454
+gameofthrones1,guileless blue eyes,1,0.16420361247947454
+gameofthrones1,a pretty face,6,0.9852216748768473
+gameofthrones1,stiff flesh,1,0.16420361247947454
+gameofthrones1,cracked skin,1,0.16420361247947454
+gameofthrones1,flaking skin,1,0.16420361247947454
+gameofthrones1,mottled black skin,1,0.16420361247947454
+gameofthrones1,mottled grey skin,1,0.16420361247947454
+gameofthrones1,stony skin,1,0.16420361247947454
+gameofthrones1,a small pink hand,1,0.16420361247947454
+gameofthrones1,a frail spotted hand,1,0.16420361247947454
+gameofthrones1,thin shoulders,1,0.16420361247947454
+gameofthrones1,brown eyes,1,0.16420361247947454
+gameofthrones1,brown hair,2,0.3284072249589491
+gameofthrones1,a small beard,1,0.16420361247947454
+gameofthrones1,a maimed left hand,1,0.16420361247947454
+gameofthrones1,broad shoulders,5,0.8210180623973727
+gameofthrones1,sinewy limbs,1,0.16420361247947454
+gameofthrones1,tightness to a face,1,0.16420361247947454
+gameofthrones1,tough flesh,1,0.16420361247947454
+gameofthrones1,a fringe of thin black hair,1,0.16420361247947454
+gameofthrones1,open wounds beneath heavy brows,1,0.16420361247947454
+gameofthrones1,a blue as dark as the sea,1,0.16420361247947454
+gameofthrones1,thin pale lips,1,0.16420361247947454
+gameofthrones1,clenched muscles,1,0.16420361247947454
+gameofthrones1,a thin body,1,0.16420361247947454
+gameofthrones1,a thin face,2,0.3284072249589491
+gameofthrones1,prominent ears,2,0.3284072249589491
+gameofthrones1,a sharp nose,2,0.3284072249589491
+gameofthrones1,the faintest hint of a mustache on an upper lip,1,0.16420361247947454
+gameofthrones1,a purple face,2,0.3284072249589491
+gameofthrones1,strong hands,3,0.49261083743842365
+gameofthrones1,red eyes,9,1.477832512315271
+gameofthrones1,smooth skin,1,0.16420361247947454
+gameofthrones1,white skin,1,0.16420361247947454
+gameofthrones1,unblemished skin,1,0.16420361247947454
+gameofthrones1,pale skin,1,0.16420361247947454
+gameofthrones1,a slender body,1,0.16420361247947454
+gameofthrones1,a graceful figure,1,0.16420361247947454
+gameofthrones1,full breasts,1,0.16420361247947454
+gameofthrones1,a narrow waist,1,0.16420361247947454
+gameofthrones1,a heart-shaped face,1,0.16420361247947454
+gameofthrones1,long fair hair,1,0.16420361247947454
+gameofthrones1,shadowed eyes,1,0.16420361247947454
+gameofthrones1,heavy brow,1,0.16420361247947454
+gameofthrones1,tight mouth,2,0.3284072249589491
+gameofthrones1,tight jaw,1,0.16420361247947454
+gameofthrones1,red lips,1,0.16420361247947454
+gameofthrones1,red red eyes,1,0.16420361247947454
+gameofthrones1,dirty brown hair,1,0.16420361247947454
+gameofthrones1,sharp steel scraping at the head,1,0.16420361247947454
+gameofthrones1,a hole in a face,1,0.16420361247947454
+gameofthrones1,gross fat bald head,1,0.16420361247947454
+gameofthrones1,pointed teeth,1,0.16420361247947454
+gameofthrones1,weeping sores on cheeks,1,0.16420361247947454
+gameofthrones1,eyes like nothing human,1,0.16420361247947454
+gameofthrones1,mottled green arms,1,0.16420361247947454
+gameofthrones1,the color of straw hair,1,0.16420361247947454
+gameofthrones1,a fat face,2,0.3284072249589491
+gameofthrones1,a sunburnt face,1,0.16420361247947454
+gameofthrones1,a peeling face,1,0.16420361247947454
+gameofthrones1,a broad chest,1,0.16420361247947454
+gameofthrones1,strong-looking arms,1,0.16420361247947454
+gameofthrones1,dyed green hands,1,0.16420361247947454
+gameofthrones1,a red face,3,0.49261083743842365
+gameofthrones1,light brown hair,1,0.16420361247947454
+gameofthrones1,a face that was not unpleasant,1,0.16420361247947454
+gameofthrones1,tall stature,2,0.3284072249589491
+gameofthrones1,green eyes,7,1.1494252873563218
+gameofthrones1,golden hair,1,0.16420361247947454
+gameofthrones1,pale legs,1,0.16420361247947454
+gameofthrones1,skinny legs,1,0.16420361247947454
+gameofthrones1,green eye,1,0.16420361247947454
+gameofthrones1,black eye,1,0.16420361247947454
+gameofthrones1,cool eyes,1,0.16420361247947454
+gameofthrones1,a black beard,1,0.16420361247947454
+gameofthrones1,pale grey eyes,1,0.16420361247947454
+gameofthrones1,flat eyes,1,0.16420361247947454
+gameofthrones1,lifeless eyes,1,0.16420361247947454
+gameofthrones1,lovely green eyes,1,0.16420361247947454
+gameofthrones1,red cheeks,1,0.16420361247947454
+gameofthrones1,burning cheeks,1,0.16420361247947454
+gameofthrones1,large dark eyes,1,0.16420361247947454
+gameofthrones1,fine black hair,1,0.16420361247947454
+gameofthrones1,a sweet soft hungry mouth,1,0.16420361247947454
+gameofthrones1,slim legs,1,0.16420361247947454
+gameofthrones1,supple legs,1,0.16420361247947454
+gameofthrones1,short legs,1,0.16420361247947454
+gameofthrones1,stunted legs,1,0.16420361247947454
+gameofthrones1,stout build,1,0.16420361247947454
+gameofthrones1,a big round belly,1,0.16420361247947454
+gameofthrones1,a sharp face,1,0.16420361247947454
+gameofthrones1,half a foot shorter,1,0.16420361247947454
+gameofthrones1,scarecrow thin,1,0.16420361247947454
+gameofthrones1,hollow eyes,2,0.3284072249589491
+gameofthrones1,bloody feet,1,0.16420361247947454
+gameofthrones1,yellow hair,1,0.16420361247947454
+gameofthrones1,red face,1,0.16420361247947454
+gameofthrones1,squat stature,1,0.16420361247947454
+gameofthrones1,thick physique,1,0.16420361247947454
+gameofthrones1,huge hands,2,0.3284072249589491
+gameofthrones1,red-and-white hair,1,0.16420361247947454
+gameofthrones1,a handsome face,1,0.16420361247947454
+gameofthrones1,very sharp teeth,1,0.16420361247947454
+gameofthrones1,thick black hair,1,0.16420361247947454
+gameofthrones1,deep blue eyes,2,0.3284072249589491
+gameofthrones1,a broken nose,1,0.16420361247947454
+gameofthrones1,burning blue eyes,1,0.16420361247947454
+gameofthrones1,cold black hands,1,0.16420361247947454
+gameofthrones1,a big gut,1,0.16420361247947454
+gameofthrones1,a barrel chest,1,0.16420361247947454
+gameofthrones1,a flat nose,2,0.3284072249589491
+gameofthrones1,a bristly black jaw,1,0.16420361247947454
+gameofthrones1,a weak chin,1,0.16420361247947454
+gameofthrones1,a weaker mouth,1,0.16420361247947454
+gameofthrones1,a thin scraggle of beard,1,0.16420361247947454
+gameofthrones1,a cool look,1,0.16420361247947454
+gameofthrones1,a thick auburn mop of hair,1,0.16420361247947454
+gameofthrones1,fair hair,1,0.16420361247947454
+gameofthrones1,stringy brown locks,1,0.16420361247947454
+gameofthrones1,weak chin,1,0.16420361247947454
+gameofthrones1,thin face,1,0.16420361247947454
+gameofthrones1,a large direwolf,1,0.16420361247947454
+gameofthrones1,lean body,1,0.16420361247947454
+gameofthrones1,smoke-dark fur,1,0.16420361247947454
+gameofthrones1,eyes like molten gold,1,0.16420361247947454
+gameofthrones1,a tall figure,1,0.16420361247947454
+gameofthrones1,a gaunt figure,1,0.16420361247947454
+gameofthrones1,grey hair,2,0.3284072249589491
+gameofthrones1,a clean-shaven face,1,0.16420361247947454
+gameofthrones1,a lined face,1,0.16420361247947454
+gameofthrones1,a windburnt face,1,0.16420361247947454
+gameofthrones1,fine white hair,1,0.16420361247947454
+gameofthrones1,deep-set eyes,3,0.49261083743842365
+gameofthrones1,a prominent brow ridge,1,0.16420361247947454
+gameofthrones1,a shock of salt-and-pepper hair,1,0.16420361247947454
+gameofthrones1,soft hands,3,0.49261083743842365
+gameofthrones1,bald powdered face,1,0.16420361247947454
+gameofthrones1,slimy little smile,1,0.16420361247947454
+gameofthrones1,small stature,1,0.16420361247947454
+gameofthrones1,twisted legs,1,0.16420361247947454
+gameofthrones1,a wrinkled face,1,0.16420361247947454
+gameofthrones1,thick arms,3,0.49261083743842365
+gameofthrones1,bandy legs,2,0.3284072249589491
+gameofthrones1,a fat-bellied southron merchanter,1,0.16420361247947454
+gameofthrones1,plump lips,2,0.3284072249589491
+gameofthrones1,a green face,1,0.16420361247947454
+gameofthrones1,a faint smile,1,0.16420361247947454
+gameofthrones1,a heavy teat,1,0.16420361247947454
+gameofthrones1,a fat brown nipple,1,0.16420361247947454
+gameofthrones1,dark red skin,1,0.16420361247947454
+gameofthrones1,fierce black eyes,1,0.16420361247947454
+gameofthrones1,a beak of a nose,1,0.16420361247947454
+gameofthrones1,thin frame,1,0.16420361247947454
+gameofthrones1,spare ounce of flesh,1,0.16420361247947454
+gameofthrones1,hair and skin,1,0.16420361247947454
+gameofthrones1,cloudy blue eyes,1,0.16420361247947454
+gameofthrones1,toothless oldster,1,0.16420361247947454
+gameofthrones1,gaunt face,1,0.16420361247947454
+gameofthrones1,soft golden hair,1,0.16420361247947454
+gameofthrones1,brittle hair,1,0.16420361247947454
+gameofthrones1,thin as a pike,1,0.16420361247947454
+gameofthrones1,grey streaks in hair,1,0.16420361247947454
+gameofthrones1,five feet tall,1,0.16420361247947454
+gameofthrones1,a bald head,3,0.49261083743842365
+gameofthrones1,a scared-looking face,1,0.16420361247947454
+gameofthrones1,missing teeth,1,0.16420361247947454
+gameofthrones1,a speckly grey beard,1,0.16420361247947454
+gameofthrones1,arms as thick as a bull ’ s neck,1,0.16420361247947454
+gameofthrones1,a purple beard,1,0.16420361247947454
+gameofthrones1,a buxom young wench,1,0.16420361247947454
+gameofthrones1,honeyed hair,1,0.16420361247947454
+gameofthrones1,smooth and black skin,1,0.16420361247947454
+gameofthrones1,wide dark eyes,1,0.16420361247947454
+gameofthrones1,small pointed breasts,1,0.16420361247947454
+gameofthrones1,long dark hair,1,0.16420361247947454
+gameofthrones1,blue eyes,5,0.8210180623973727
+gameofthrones1,a scarred face,1,0.16420361247947454
+gameofthrones1,a stubble of dark beard,1,0.16420361247947454
+gameofthrones1,guileless brown eyes,1,0.16420361247947454
+gameofthrones1,seven feet tall,1,0.16420361247947454
+gameofthrones1,a bald spot atop the head,1,0.16420361247947454
+gameofthrones1,a head that had turned red,1,0.16420361247947454
+gameofthrones1,fat fingers,1,0.16420361247947454
+gameofthrones1,deep red eyes,1,0.16420361247947454
+gameofthrones1,twisted wooden mouth,1,0.16420361247947454
+gameofthrones1,pale branches,1,0.16420361247947454
+gameofthrones1,a sharp voice,1,0.16420361247947454
+gameofthrones1,pale blue eyes,1,0.16420361247947454
+gameofthrones1,heavy-lidded eyes,2,0.3284072249589491
+gameofthrones1,clear green eyes,1,0.16420361247947454
+gameofthrones1,beautiful eyes,1,0.16420361247947454
+gameofthrones1,limp brown hair,1,0.16420361247947454
+gameofthrones1,blotchy skin,2,0.3284072249589491
+gameofthrones1,a web of broken veins,1,0.16420361247947454
+gameofthrones1,a heavy hand,1,0.16420361247947454
+gameofthrones1,dark flesh of the throat,1,0.16420361247947454
+gameofthrones1,angry red welts,1,0.16420361247947454
+gameofthrones1,big eyes,2,0.3284072249589491
+gameofthrones1,a pale face,1,0.16420361247947454
+gameofthrones1,bloody arms,1,0.16420361247947454
+gameofthrones1,long scratches,1,0.16420361247947454
+gameofthrones1,splotchy green hands,1,0.16420361247947454
+gameofthrones1,a soft throat,1,0.16420361247947454
+gameofthrones1,soft damp hands,1,0.16420361247947454
+gameofthrones1,thin brown hair,1,0.16420361247947454
+gameofthrones1,a slim body,1,0.16420361247947454
+gameofthrones1,long brown hair,1,0.16420361247947454
+gameofthrones1,the barest suggestion of breasts,1,0.16420361247947454
+gameofthrones1,one slim hip,1,0.16420361247947454
+gameofthrones1,a slight build,1,0.16420361247947454
+gameofthrones1,a slender build,1,0.16420361247947454
+gameofthrones1,large green eyes,1,0.16420361247947454
+gameofthrones1,scarred hands,3,0.49261083743842365
+gameofthrones1,long limbs,1,0.16420361247947454
+gameofthrones1,coal-black hair,1,0.16420361247947454
+gameofthrones1,fine straight hair,1,0.16420361247947454
+gameofthrones1,easy smile,1,0.16420361247947454
+gameofthrones1,soft eyes,2,0.3284072249589491
+gameofthrones1,curling brown hair,1,0.16420361247947454
+gameofthrones1,a broken lip,1,0.16420361247947454
+gameofthrones1,unfocused eyes,1,0.16420361247947454
+gameofthrones1,matted hair,1,0.16420361247947454
+gameofthrones1,large blue eyes,1,0.16420361247947454
+gameofthrones1,very blue eyes,1,0.16420361247947454
+gameofthrones1,broad features,1,0.16420361247947454
+gameofthrones1,coarse features,1,0.16420361247947454
+gameofthrones1,prominent teeth,1,0.16420361247947454
+gameofthrones1,crooked teeth,2,0.3284072249589491
+gameofthrones1,too wide mouth,1,0.16420361247947454
+gameofthrones1,swollen lips,1,0.16420361247947454
+gameofthrones1,a short bristly grey beard,1,0.16420361247947454
+gameofthrones1,huge freckled hands,1,0.16420361247947454
+gameofthrones1,wide flat face,1,0.16420361247947454
+gameofthrones1,the thrust of teeth,1,0.16420361247947454
+gameofthrones1,a broad hip,1,0.16420361247947454
+gameofthrones1,thick limbs,1,0.16420361247947454
+gameofthrones1,hunched muscular shoulders,1,0.16420361247947454
+gameofthrones1,no bosom,1,0.16420361247947454
+gameofthrones1,lively eyes,1,0.16420361247947454
+gameofthrones1,intelligent eyes,1,0.16420361247947454
+gameofthrones1,an artless tumble of brown locks,1,0.16420361247947454
+gameofthrones1,a drooping mouth,1,0.16420361247947454
+gameofthrones1,one of ears,1,0.16420361247947454
+gameofthrones1,a mouthful of broken brown teeth,1,0.16420361247947454
+gameofthrones1,a long face,2,0.3284072249589491
+gameofthrones1,a big mushy head,1,0.16420361247947454
+gameofthrones1,a purply-red head,1,0.16420361247947454
+gameofthrones1,a gashed face,1,0.16420361247947454
+gameofthrones1,a swollen face,1,0.16420361247947454
+gameofthrones1,a deep red face,1,0.16420361247947454
+gameofthrones1,a lean body,1,0.16420361247947454
+gameofthrones1,long legs,1,0.16420361247947454
+gameofthrones1,black hair cut short,1,0.16420361247947454
+gameofthrones1,wind-chafed skin,1,0.16420361247947454
+gameofthrones1,strong sure hands,1,0.16420361247947454
+gameofthrones1,a big nose,1,0.16420361247947454
+gameofthrones1,faded pink scar on a pretty neck,1,0.16420361247947454
+gameofthrones1,pretty neck,1,0.16420361247947454
+gameofthrones1,a pretty head,1,0.16420361247947454
+gameofthrones1,a huge gap-toothed smile,1,0.16420361247947454
+gameofthrones1,thick sandy hair,1,0.16420361247947454
+gameofthrones1,green Lannister eyes,1,0.16420361247947454
+gameofthrones1,a line of soft blond fuzz on the upper lip,1,0.16420361247947454
+gameofthrones1,a tight jaw,1,0.16420361247947454
+gameofthrones1,wide white eyes,2,0.3284072249589491
+gameofthrones1,a broad dome,1,0.16420361247947454
+gameofthrones1,white hair,2,0.3284072249589491
+gameofthrones1,wrinkled skin,1,0.16420361247947454
+gameofthrones1,a big hand,1,0.16420361247947454
+gameofthrones1,the blisters on toes,1,0.16420361247947454
+gameofthrones1,big moon eyes,1,0.16420361247947454
+gameofthrones1,callus on fingers,1,0.16420361247947454
+gameofthrones1,a great beak of a nose,1,0.16420361247947454
+gameofthrones1,languid appearance,1,0.16420361247947454
+gameofthrones1,elegant demeanor,1,0.16420361247947454
+gameofthrones1,bare feet,1,0.16420361247947454
+gameofthrones1,pale blue lips,1,0.16420361247947454
+gameofthrones1,eyes of molten gold,1,0.16420361247947454
+gameofthrones1,huge feet,1,0.16420361247947454
+gameofthrones1,a thick neck,2,0.3284072249589491
+gameofthrones1,thin flaxen hair,1,0.16420361247947454
+gameofthrones1,not so fine features,1,0.16420361247947454
+gameofthrones1,sand-colored hair,1,0.16420361247947454
+gameofthrones1,a pug-nosed appearance,1,0.16420361247947454
+gameofthrones1,a bouncy physique,1,0.16420361247947454
+gameofthrones1,a mane of thick red hair,1,0.16420361247947454
+gameofthrones1,porcelain skin,1,0.16420361247947454
+gameofthrones1,long straight silvery hair,1,0.16420361247947454
+gameofthrones1,a harelip,1,0.16420361247947454
+gameofthrones1,a lazy eye,1,0.16420361247947454
+gameofthrones1,the soft curves of a young body,1,0.16420361247947454
+gameofthrones1,a small hard nipple,1,0.16420361247947454
+gameofthrones1,a fatherly one,1,0.16420361247947454
+gameofthrones1,a sickly one,1,0.16420361247947454
+gameofthrones1,long blond hair,1,0.16420361247947454
+gameofthrones1,a stick-thin frame,1,0.16420361247947454
+gameofthrones1,a very tall frame,1,0.16420361247947454
+gameofthrones1,a drawn emaciated face,1,0.16420361247947454
+gameofthrones1,a ropy black beard,1,0.16420361247947454
+gameofthrones1,a pointed chin,1,0.16420361247947454
+gameofthrones1,a bushy mustache,1,0.16420361247947454
+gameofthrones1,a fat body,1,0.16420361247947454
+gameofthrones1,strong-looking appearance,1,0.16420361247947454
+gameofthrones1,stiff golden whiskers,1,0.16420361247947454
+gameofthrones1,red and white shiny hair,1,0.16420361247947454
+gameofthrones1,a strong hand,1,0.16420361247947454
+gameofthrones1,smooth warm stone,1,0.16420361247947454
+gameofthrones1,a heavy jaw,1,0.16420361247947454
+gameofthrones1,golden roses girded temples,1,0.16420361247947454
+gameofthrones1,a jade stag ’ s head rising over forehead,1,0.16420361247947454
+gameofthrones1,long black hair,2,0.3284072249589491
+gameofthrones1,limp yellow hair,1,0.16420361247947454
+gameofthrones1,a broad face,1,0.16420361247947454
+gameofthrones1,a homely face,1,0.16420361247947454
+gameofthrones1,broken veins,1,0.16420361247947454
+gameofthrones1,angry red welts on the backs of legs,1,0.16420361247947454
+gameofthrones1,a hard face,1,0.16420361247947454
+gameofthrones1,leathery brown skin,1,0.16420361247947454
+gameofthrones1,a scrawny neck,1,0.16420361247947454
+gameofthrones1,a brutal bulging brow,1,0.16420361247947454
+gameofthrones1,a hard black eye,1,0.16420361247947454
+gameofthrones1,a shrewd green eye,1,0.16420361247947454
+gameofthrones1,a wiry beard,1,0.16420361247947454
+gameofthrones1,warm smile,1,0.16420361247947454
+gameofthrones1,scarred fingers,1,0.16420361247947454
+gameofthrones1,tightness in fingers,1,0.16420361247947454
+gameofthrones1,wide eyes,5,0.8210180623973727
+gameofthrones1,a pair of red eyes,1,0.16420361247947454
+gameofthrones1,baleful eyes,1,0.16420361247947454
+gameofthrones1,strange green eyes,1,0.16420361247947454
+gameofthrones1,fat moist lips,1,0.16420361247947454
+gameofthrones1,long hair,4,0.6568144499178982
+gameofthrones1,a neck heavy with muscle and fat,1,0.16420361247947454
+gameofthrones1,a shaggy beard,1,0.16420361247947454
+gameofthrones1,puckered twisted flesh,1,0.16420361247947454
+gameofthrones1,a shiny seam,1,0.16420361247947454
+gameofthrones1,twisted lips,1,0.16420361247947454
+gameofthrones1,brown splinters of teeth,1,0.16420361247947454
+gameofthrones1,copper color mane,1,0.16420361247947454
+gameofthrones1,a bare chest,1,0.16420361247947454
+gameofthrones1,heavy black hair,1,0.16420361247947454
+gameofthrones1,a mouthful of crooked brown teeth,1,0.16420361247947454
+gameofthrones1,the hole in a face,1,0.16420361247947454
+gameofthrones1,red hair,1,0.16420361247947454
+gameofthrones1,a red ruin throat,1,0.16420361247947454
+gameofthrones1,gaping sightless eyes,1,0.16420361247947454
+gameofthrones1,skeletal fingers,1,0.16420361247947454
+gameofthrones1,dark grey eyes,1,0.16420361247947454
+gameofthrones1,hard eyes,1,0.16420361247947454
+gameofthrones1,a bare shoulder,1,0.16420361247947454
+gameofthrones1,the meat of a hand,1,0.16420361247947454
+gameofthrones1,long elegant fingers,1,0.16420361247947454
+gameofthrones1,broad sweeps of arms,1,0.16420361247947454
+gameofthrones1,heavy black brows,1,0.16420361247947454
+gameofthrones1,a slim white throat,1,0.16420361247947454
+gameofthrones1,a tall palfrey,1,0.16420361247947454
+gameofthrones1,golden curls,1,0.16420361247947454
+gameofthrones1,thick auburn hair,1,0.16420361247947454
+gameofthrones1,skinny arms,1,0.16420361247947454
+gameofthrones1,a red pulp head,1,0.16420361247947454
+gameofthrones1,mismatched eyes,1,0.16420361247947454
+gameofthrones1,a paleness beneath the cowl,1,0.16420361247947454
+gameofthrones1,pale red eyes,1,0.16420361247947454
+gameofthrones1,swollen breasts,1,0.16420361247947454
+gameofthrones1,a heavy chest,1,0.16420361247947454
+gameofthrones1,a bulging belly,1,0.16420361247947454
+gameofthrones1,heavy beards,1,0.16420361247947454
+gameofthrones1,hard lean faces,1,0.16420361247947454
+gameofthrones1,hard flat planes of cheeks,1,0.16420361247947454
+gameofthrones1,dark hair,2,0.3284072249589491
+gameofthrones1,smooth cream of skin,1,0.16420361247947454
+gameofthrones1,long fingers,1,0.16420361247947454
+gameofthrones1,black fingers,1,0.16420361247947454
+gameofthrones1,big bold eyes,1,0.16420361247947454
+gameofthrones1,large eyes,1,0.16420361247947454
+gameofthrones1,blue and beautiful eyes,1,0.16420361247947454
+gameofthrones1,black hair,2,0.3284072249589491
+gameofthrones1,bright blue eyes,1,0.16420361247947454
+gameofthrones1,the color of plums eyes,1,0.16420361247947454
+gameofthrones1,a tiny waist,1,0.16420361247947454
+gameofthrones1,big hands,2,0.3284072249589491
+gameofthrones1,long thick fingers,1,0.16420361247947454
+gameofthrones1,green pools full of sorrow,1,0.16420361247947454
+gameofthrones1,teats like empty wineskins,1,0.16420361247947454
+gameofthrones1,dry teats,1,0.16420361247947454
+gameofthrones1,withered teats,1,0.16420361247947454
+gameofthrones1,strong arms,1,0.16420361247947454
+gameofthrones1,weak heads,1,0.16420361247947454
+gameofthrones1,cracked lips,1,0.16420361247947454
+gameofthrones1,huge strong arms,1,0.16420361247947454
+gameofthrones1,bloody hands,1,0.16420361247947454
+gameofthrones1,a weary arm,1,0.16420361247947454
+gameofthrones1,weary legs,1,0.16420361247947454
+gameofthrones1,huge pale hands,1,0.16420361247947454
+gameofthrones1,long straight hair,1,0.16420361247947454
+gameofthrones1,tight black curls,1,0.16420361247947454
+gameofthrones1,sharp teeth,1,0.16420361247947454
+gameofthrones1,a pinched face,1,0.16420361247947454
+gameofthrones1,a pointed face,1,0.16420361247947454
+gameofthrones1,a snoutish face,1,0.16420361247947454
+gameofthrones1,tiny pink hands,2,0.3284072249589491
+gameofthrones1,rattish pointed faces,1,0.16420361247947454
+gameofthrones1,a wet red mouth,1,0.16420361247947454
+gameofthrones1,a big wrinkled hand,1,0.16420361247947454
+gameofthrones1,a soft hand,2,0.3284072249589491
+gameofthrones1,dark eyes,1,0.16420361247947454
+gameofthrones1,long silver-grey hair,1,0.16420361247947454
+gameofthrones1,a tall lord,1,0.16420361247947454
+gameofthrones1,copper skin,1,0.16420361247947454
+gameofthrones1,silver-gold hair,2,0.3284072249589491
+gameofthrones1,blue-eyed king,1,0.16420361247947454
+gameofthrones1,the soft skin of the throat,1,0.16420361247947454
+gameofthrones1,a cool shoulder,1,0.16420361247947454
+gameofthrones1,six feet and six inches,1,0.16420361247947454
+gameofthrones1,sinew and muscle,1,0.16420361247947454
+gameofthrones1,a hook nose,1,0.16420361247947454
+gameofthrones1,bushy eyebrows,1,0.16420361247947454
+gameofthrones1,a spade-shaped brown beard,1,0.16420361247947454
+gameofthrones1,a fierce aspect,1,0.16420361247947454
+gameofthrones1,a wispy white beard,1,0.16420361247947454
+gameofthrones1,a wizened face,1,0.16420361247947454
+gameofthrones1,bright red hair,1,0.16420361247947454
+gameofthrones1,the soft skin of a throat,1,0.16420361247947454
+gameofthrones1,a round face,2,0.3284072249589491
+gameofthrones1,small hands,1,0.16420361247947454
+gameofthrones1,a pug nose,1,0.16420361247947454
+gameofthrones1,a shaggy mop of red hair,1,0.16420361247947454
+gameofthrones1,eyes as wide and white as hen ’ s eggs,1,0.16420361247947454
+gameofthrones1,strong fingers,1,0.16420361247947454
+gameofthrones1,thick legs,1,0.16420361247947454
+gameofthrones1,thick hips,1,0.16420361247947454
+gameofthrones1,a soft white hand,1,0.16420361247947454
+gameofthrones1,tall men,1,0.16420361247947454
+gameofthrones1,hooked noses,1,0.16420361247947454
+gameofthrones1,cruel smiles,1,0.16420361247947454
+gameofthrones1,dark face,1,0.16420361247947454
+gameofthrones1,green and black eyes,1,0.16420361247947454
+gameofthrones1,one small breast,1,0.16420361247947454
+gameofthrones1,raised eyes,1,0.16420361247947454
+gameofthrones1,warm skin,1,0.16420361247947454
+gameofthrones1,blue veins,1,0.16420361247947454
+gameofthrones1,pale translucent skin,1,0.16420361247947454
+gameofthrones1,broken veins in a nose,1,0.16420361247947454
+gameofthrones1,thin stripes of blood across cheeks,1,0.16420361247947454
+gameofthrones1,soft pillowy breasts,1,0.16420361247947454
+gameofthrones1,stretch marks on a belly,1,0.16420361247947454
+gameofthrones1,a hawk ’ s beak of a nose,1,0.16420361247947454
+gameofthrones1,a wide mouth,1,0.16420361247947454
+gameofthrones1,a soft toothless mouth,1,0.16420361247947454
+gameofthrones1,a bony hand,1,0.16420361247947454
+gameofthrones1,a hard hand with callus,1,0.16420361247947454
+gameofthrones1,a small hand,1,0.16420361247947454
+gameofthrones1,short dark hair,1,0.16420361247947454
+gameofthrones1,dull brown eyes,1,0.16420361247947454
+gameofthrones1,bright yellow hair,1,0.16420361247947454
+gameofthrones1,thick curls,1,0.16420361247947454
+gameofthrones1,red blood on a face,1,0.16420361247947454
+gameofthrones1,white eyes,2,0.3284072249589491
+gameofthrones1,four long thin scratches on the cheek,1,0.16420361247947454
+gameofthrones1,hair falling down past the collar,1,0.16420361247947454
+gameofthrones1,flushed cheeks,1,0.16420361247947454
+gameofthrones1,bright eyes,1,0.16420361247947454
+gameofthrones1,feverish eyes,1,0.16420361247947454
+gameofthrones1,a drooping black mustache,1,0.16420361247947454
+gameofthrones1,a tall stature,1,0.16420361247947454
+gameofthrones1,a stern demeanor,1,0.16420361247947454
+gameofthrones1,a grim face,1,0.16420361247947454
+gameofthrones1,a red arm,1,0.16420361247947454
+gameofthrones1,a glistening arm,1,0.16420361247947454
+gameofthrones1,rough fingers,1,0.16420361247947454
+gameofthrones1,callused fingers,1,0.16420361247947454
+gameofthrones1,sticky fingers,1,0.16420361247947454
+gameofthrones1,dark blood on the face,1,0.16420361247947454
+gameofthrones1,glowing eyes,1,0.16420361247947454
+gameofthrones1,terrifying eyes,1,0.16420361247947454
+gameofthrones1,a gleaming bald head,1,0.16420361247947454
+gameofthrones1,the smooth cheeks of a eunuch,1,0.16420361247947454
+gameofthrones1,tree-trunk arms,1,0.16420361247947454
+gameofthrones1,huge chest,1,0.16420361247947454
+gameofthrones1,nut-brown skin,1,0.16420361247947454
+gameofthrones1,long white hair,1,0.16420361247947454
+gameofthrones1,a silky white beard,1,0.16420361247947454
+gameofthrones1,a gap-toothed smile,1,0.16420361247947454
+gameofthrones1,a broad brown face,1,0.16420361247947454
+gameofthrones1,a thin finger,1,0.16420361247947454
+gameofthrones1,pallid chest,1,0.16420361247947454
+gameofthrones1,long translucent arms,1,0.16420361247947454
+gameofthrones1,long translucent legs,1,0.16420361247947454
+gameofthrones1,watery red eyes,1,0.16420361247947454
+gameofthrones1,huge gnarled hands,1,0.16420361247947454
+gameofthrones1,a square face,1,0.16420361247947454
+gameofthrones1,a soft hairless body,1,0.16420361247947454
+gameofthrones1,skinny shoulders,1,0.16420361247947454
+gameofthrones1,a red round face,1,0.16420361247947454
+gameofthrones1,a heavy golden crown,1,0.16420361247947454
+gameofthrones1,tight hands,1,0.16420361247947454
+gameofthrones1,thick fingers,1,0.16420361247947454
+gameofthrones1,a stiff white chin,1,0.16420361247947454
+gameofthrones1,stiff white whiskers,1,0.16420361247947454
+gameofthrones1,dead empty eyes,1,0.16420361247947454
+gameofthrones1,a reaching hand,1,0.16420361247947454
+gameofthrones1,green fire shining,1,0.16420361247947454
+gameofthrones1,white enamel plate,1,0.16420361247947454
+gameofthrones1,a soft pink face,1,0.16420361247947454
+gameofthrones1,a brown fringe of beard,1,0.16420361247947454
+gameofthrones1,a fat neck,1,0.16420361247947454
+gameofthrones1,a stiff mouth,1,0.16420361247947454
+gameofthrones1,a sore mouth,1,0.16420361247947454
+gameofthrones1,a split lip,1,0.16420361247947454
+gameofthrones1,a long gash,1,0.16420361247947454
+gameofthrones1,a crooked gash,1,0.16420361247947454
+gameofthrones1,a left eye,1,0.16420361247947454
+gameofthrones1,a right jaw,1,0.16420361247947454
+gameofthrones1,a proud face,1,0.16420361247947454
+gameofthrones1,blunt thick fingers,1,0.16420361247947454
+gameofthrones1,a broken skull helm,1,0.16420361247947454
+gameofthrones1,bearclaws sewn to arms,1,0.16420361247947454
+gameofthrones1,boiled leather,1,0.16420361247947454
+gameofthrones1,a head of shaggy red hair,1,0.16420361247947454
+gameofthrones1,narrowed eyes,1,0.16420361247947454
+gameofthrones1,big spearwife,1,0.16420361247947454
+gameofthrones1,truth of,1,0.16420361247947454
+gameofthrones1,a big throat,1,0.16420361247947454
+gameofthrones1,bulging cords in the neck,1,0.16420361247947454
+harrypotter1,hardly any neck,1,1.282051282051282
+harrypotter1,a very large mustache,1,1.282051282051282
+harrypotter1,a wide smile,1,1.282051282051282
+harrypotter1,a squeaky voice,1,1.282051282051282
+harrypotter1,tall stature,2,2.564102564102564
+harrypotter1,thin physique,2,2.564102564102564
+harrypotter1,silver hair,1,1.282051282051282
+harrypotter1,a long beard,1,1.282051282051282
+harrypotter1,light blue eyes,1,1.282051282051282
+harrypotter1,bright blue eyes,1,1.282051282051282
+harrypotter1,sparkling blue eyes,1,1.282051282051282
+harrypotter1,a long nose,1,1.282051282051282
+harrypotter1,a crooked nose,1,1.282051282051282
+harrypotter1,black hair,2,2.564102564102564
+harrypotter1,bushy black hair,1,1.282051282051282
+harrypotter1,hands the size of trash can lids,1,1.282051282051282
+harrypotter1,feet in leather boots,1,1.282051282051282
+harrypotter1,vast muscular arms,1,1.282051282051282
+harrypotter1,a small hand,1,1.282051282051282
+harrypotter1,a thin face,1,1.282051282051282
+harrypotter1,knobbly knees,2,2.564102564102564
+harrypotter1,bright green eyes,1,1.282051282051282
+harrypotter1,a very thin scar on the forehead,1,1.282051282051282
+harrypotter1,a large pink face,1,1.282051282051282
+harrypotter1,small watery blue eyes,1,1.282051282051282
+harrypotter1,thick blond hair,1,1.282051282051282
+harrypotter1,a thick fat head,1,1.282051282051282
+harrypotter1,red face,1,1.282051282051282
+harrypotter1,a large purple face,1,1.282051282051282
+harrypotter1,short hair,1,1.282051282051282
+harrypotter1,bald hair,1,1.282051282051282
+harrypotter1,a horrible scar,1,1.282051282051282
+harrypotter1,glasses dangling from one ear,1,1.282051282051282
+harrypotter1,a fat wrist,1,1.282051282051282
+harrypotter1,a long shaggy mane of hair,1,1.282051282051282
+harrypotter1,a wild tangled beard,1,1.282051282051282
+harrypotter1,eyes glinting like black beetles,1,1.282051282051282
+harrypotter1,a swarthy face,1,1.282051282051282
+harrypotter1,a clever face,1,1.282051282051282
+harrypotter1,very long fingers,1,1.282051282051282
+harrypotter1,very long feet,1,1.282051282051282
+harrypotter1,long fingers,1,1.282051282051282
+harrypotter1,wide pale eyes,1,1.282051282051282
+harrypotter1,a long white finger,1,1.282051282051282
+harrypotter1,flaming red hair,1,1.282051282051282
+harrypotter1,gangling build,1,1.282051282051282
+harrypotter1,big hands,1,1.282051282051282
+harrypotter1,big feet,1,1.282051282051282
+harrypotter1,bushy brown hair,1,1.282051282051282
+harrypotter1,large front teeth,1,1.282051282051282
+harrypotter1,a pink tinge in pale cheeks,1,1.282051282051282
+harrypotter1,a red face,1,1.282051282051282
+harrypotter1,red hair,3,3.8461538461538463
+harrypotter1,a big hairy face,2,2.564102564102564
+harrypotter1,greasy black hair,1,1.282051282051282
+harrypotter1,a hooked nose,1,1.282051282051282
+harrypotter1,sallow skin,1,1.282051282051282
+harrypotter1,hook-nosed teacher,1,1.282051282051282
+harrypotter1,Harry 's eyes,1,1.282051282051282
+harrypotter1,the scar on Harry 's forehead,1,1.282051282051282
+harrypotter1,wicked dark eyes,1,1.282051282051282
+harrypotter1,a wide mouth,1,1.282051282051282
+harrypotter1,a tall kid,1,1.282051282051282
+harrypotter1,short gray hair,1,1.282051282051282
+harrypotter1,yellow eyes,1,1.282051282051282
+harrypotter1,long arms,1,1.282051282051282
+harrypotter1,wide eyes,1,1.282051282051282
+harrypotter1,a huge hairy face,1,1.282051282051282
+harrypotter1,dark red hair,1,1.282051282051282
+harrypotter1,green eyes,1,1.282051282051282
+harrypotter1,astonishingly blue eyes,1,1.282051282051282
+hungergames1,hunched shoulders,1,1.4492753623188406
+hungergames1,swollen knuckles,1,1.4492753623188406
+hungergames1,broken nails,1,1.4492753623188406
+hungergames1,sunken faces,1,1.4492753623188406
+hungergames1,straight black hair,1,1.4492753623188406
+hungergames1,olive skin,1,1.4492753623188406
+hungergames1,gray eyes,2,2.898550724637681
+hungergames1,light hair,1,1.4492753623188406
+hungergames1,blue eyes,4,5.797101449275362
+hungergames1,a scary white grin,1,1.4492753623188406
+hungergames1,pinkish hair,1,1.4492753623188406
+hungergames1,pink hair,2,2.898550724637681
+hungergames1,skinny arms,1,1.4492753623188406
+hungergames1,medium height,1,1.4492753623188406
+hungergames1,stocky build,1,1.4492753623188406
+hungergames1,ashy blond hair,1,1.4492753623188406
+hungergames1,a blue face,1,1.4492753623188406
+hungergames1,a big build,1,1.4492753623188406
+hungergames1,broad shoulders,1,1.4492753623188406
+hungergames1,burn scars,1,1.4492753623188406
+hungergames1,sleek red hair,1,1.4492753623188406
+hungergames1,a crippled foot,1,1.4492753623188406
+hungergames1,a puffy face,1,1.4492753623188406
+hungergames1,a red face,1,1.4492753623188406
+hungergames1,orange corkscrew locks,1,1.4492753623188406
+hungergames1,purple lipstick,1,1.4492753623188406
+hungergames1,close-cropped hair,1,1.4492753623188406
+hungergames1,green eyes,2,2.898550724637681
+hungergames1,paper-white hair,1,1.4492753623188406
+hungergames1,dark red hair,1,1.4492753623188406
+hungergames1,striking features,1,1.4492753623188406
+hungergames1,porcelain white skin,1,1.4492753623188406
+hungergames1,red hair,2,2.898550724637681
+hungergames1,bright dark eyes,1,1.4492753623188406
+hungergames1,satiny brown skin,1,1.4492753623188406
+hungergames1,widened eyes,1,1.4492753623188406
+hungergames1,huge dark eyes,1,1.4492753623188406
+hungergames1,full red lips,1,1.4492753623188406
+hungergames1,flowing blonde hair,1,1.4492753623188406
+hungergames1,emerald green eyes,1,1.4492753623188406
+hungergames1,tall body,1,1.4492753623188406
+hungergames1,lush body,1,1.4492753623188406
+hungergames1,six and a half feet tall,1,1.4492753623188406
+hungergames1,built like an ox,1,1.4492753623188406
+hungergames1,an awkward face,1,1.4492753623188406
+hungergames1,bandaged hands,1,1.4492753623188406
+hungergames1,dark thick hair,1,1.4492753623188406
+hungergames1,a long burn across the chest,1,1.4492753623188406
+hungergames1,four tracker jacker stings,1,1.4492753623188406
+hungergames1,the one under the ear,1,1.4492753623188406
+hungergames1,loose strands of hair,1,1.4492753623188406
+hungergames1,a rapid rise and fall of a chest,1,1.4492753623188406
+hungergames1,a low moan escaping lips,1,1.4492753623188406
+hungergames1,strange golden brown eyes,1,1.4492753623188406
+hungergames1,the red glint of hair,1,1.4492753623188406
+hungergames1,blonde hair,1,1.4492753623188406
+hungergames1,amber eyes,1,1.4492753623188406
+hungergames1,ashen hair,1,1.4492753623188406
+hungergames1,hazel eyes,1,1.4492753623188406
+hungergames1,dark glossy fur,1,1.4492753623188406
+hungergames1,huge brown eyes,1,1.4492753623188406
+hungergames1,a gray face,1,1.4492753623188406
+lordoftherings1,long fingers,2,1.834862385321101
+lordoftherings1,skilful fingers,1,0.9174311926605505
+lordoftherings1,browner of skin,1,0.9174311926605505
+lordoftherings1,neat hands,1,0.9174311926605505
+lordoftherings1,nimble feet,1,0.9174311926605505
+lordoftherings1,large flat feet,1,0.9174311926605505
+lordoftherings1,pale luminous eyes,1,0.9174311926605505
+lordoftherings1,a green flame in the eyes,1,0.9174311926605505
+lordoftherings1,large feet,1,0.9174311926605505
+lordoftherings1,exceptionally furry feet,1,0.9174311926605505
+lordoftherings1,whiter hair,1,0.9174311926605505
+lordoftherings1,a longer beard,1,0.9174311926605505
+lordoftherings1,a longer eyebrows,1,0.9174311926605505
+lordoftherings1,a more lined face,1,0.9174311926605505
+lordoftherings1,bright eyes,3,2.7522935779816518
+lordoftherings1,pale cold eyes,1,0.9174311926605505
+lordoftherings1,sharp ears,2,1.834862385321101
+lordoftherings1,long hands,1,0.9174311926605505
+lordoftherings1,curly head,2,1.834862385321101
+lordoftherings1,round eyes,1,0.9174311926605505
+lordoftherings1,wide eyes,2,1.834862385321101
+lordoftherings1,clear eyes,2,1.834862385321101
+lordoftherings1,bright breath,1,0.9174311926605505
+lordoftherings1,a broad thick-set frame,1,0.9174311926605505
+lordoftherings1,a round red face,1,0.9174311926605505
+lordoftherings1,blue eyes,1,0.9174311926605505
+lordoftherings1,a red face,2,1.834862385321101
+lordoftherings1,a hundred wrinkles of laughter,1,0.9174311926605505
+lordoftherings1,long yellow hair,1,0.9174311926605505
+lordoftherings1,pale-blue eyes,1,0.9174311926605505
+lordoftherings1,thick brown hair,1,0.9174311926605505
+lordoftherings1,a bright blue eye,2,1.834862385321101
+lordoftherings1,deep brows,1,0.9174311926605505
+lordoftherings1,a big brown-skinned hand,1,0.9174311926605505
+lordoftherings1,a bald head,1,0.9174311926605505
+lordoftherings1,a shaggy head of dark hair necked with grey,1,0.9174311926605505
+lordoftherings1,a pale stem face,1,0.9174311926605505
+lordoftherings1,a pair of keen grey eyes,1,0.9174311926605505
+lordoftherings1,keen eyes,5,4.587155963302752
+lordoftherings1,a fat face,1,0.9174311926605505
+lordoftherings1,a stout fellow,1,0.9174311926605505
+lordoftherings1,red cheeks,1,0.9174311926605505
+lordoftherings1,taller than some,1,0.9174311926605505
+lordoftherings1,a cleft in a chin,1,0.9174311926605505
+lordoftherings1,a bright eye,1,0.9174311926605505
+lordoftherings1,heavy black brows,1,0.9174311926605505
+lordoftherings1,dark scornful eyes,1,0.9174311926605505
+lordoftherings1,large mouth,1,0.9174311926605505
+lordoftherings1,a tall dark figure,1,0.9174311926605505
+lordoftherings1,a shining light in the face,1,0.9174311926605505
+lordoftherings1,a strange eager face,1,0.9174311926605505
+lordoftherings1,long grey robes,1,0.9174311926605505
+lordoftherings1,grey hairs,1,0.9174311926605505
+lordoftherings1,haggard hands,1,0.9174311926605505
+lordoftherings1,swords of steel,1,0.9174311926605505
+lordoftherings1,long hair,1,0.9174311926605505
+lordoftherings1,gleaming hair,1,0.9174311926605505
+lordoftherings1,a tall stature,1,0.9174311926605505
+lordoftherings1,the colour in the face,1,0.9174311926605505
+lordoftherings1,awake and aware eyes,1,0.9174311926605505
+lordoftherings1,long white hair,1,0.9174311926605505
+lordoftherings1,sweeping silver beard,1,0.9174311926605505
+lordoftherings1,broad shoulders,1,0.9174311926605505
+lordoftherings1,an aged face,1,0.9174311926605505
+lordoftherings1,great snowy brows,1,0.9174311926605505
+lordoftherings1,dark eyes,1,0.9174311926605505
+lordoftherings1,a tall and straight stature,1,0.9174311926605505
+lordoftherings1,shining gold hair,1,0.9174311926605505
+lordoftherings1,a fair and young face,1,0.9174311926605505
+lordoftherings1,bright and keen eyes,1,0.9174311926605505
+lordoftherings1,a voice like music,1,0.9174311926605505
+lordoftherings1,wisdom on the brow,1,0.9174311926605505
+lordoftherings1,strength in the hand,1,0.9174311926605505
+lordoftherings1,dark hair,2,1.834862385321101
+lordoftherings1,grey eyes,2,1.834862385321101
+lordoftherings1,white arms,1,0.9174311926605505
+lordoftherings1,clear face,1,0.9174311926605505
+lordoftherings1,a hungry face,1,0.9174311926605505
+lordoftherings1,bony groping hands,1,0.9174311926605505
+lordoftherings1,a lean face,1,0.9174311926605505
+lordoftherings1,a long hand,1,0.9174311926605505
+lordoftherings1,small hands,1,0.9174311926605505
+lordoftherings1,the eyes of the great,1,0.9174311926605505
+lordoftherings1,a sharp nose,1,0.9174311926605505
+lordoftherings1,a large bold hand,1,0.9174311926605505
+lordoftherings1,brown eyes,1,0.9174311926605505
+lordoftherings1,a broad flat face,1,0.9174311926605505
+lordoftherings1,swart skin,1,0.9174311926605505
+lordoftherings1,eyes like coals,1,0.9174311926605505
+lordoftherings1,a red tongue,1,0.9174311926605505
+lordoftherings1,a light in eyes,1,0.9174311926605505
+lordoftherings1,the white form,1,0.9174311926605505
+lordoftherings1,a long whitish hand,1,0.9174311926605505
+lordoftherings1,two pale lamplike eyes,1,0.9174311926605505
+mazerunner,a tall kid,1,1.36986301369863
+mazerunner,blond hair,1,1.36986301369863
+mazerunner,a square jaw,1,1.36986301369863
+mazerunner,wide eyes,4,5.47945205479452
+mazerunner,short-cropped hair,1,1.36986301369863
+mazerunner,clean-shaven face,1,1.36986301369863
+mazerunner,short hair,1,1.36986301369863
+mazerunner,brown hair,2,2.73972602739726
+mazerunner,the size of a small fist,1,1.36986301369863
+mazerunner,a deformed potato,1,1.36986301369863
+mazerunner,a bright red face,3,4.10958904109589
+mazerunner,sickly green veins,1,1.36986301369863
+mazerunner,tight cords,1,1.36986301369863
+mazerunner,rigid cords,1,1.36986301369863
+mazerunner,a red face,2,2.73972602739726
+mazerunner,a fat face,1,1.36986301369863
+mazerunner,a scrunched up face,1,1.36986301369863
+mazerunner,a huge breath,1,1.36986301369863
+mazerunner,burning blue eyes,1,1.36986301369863
+mazerunner,gray hair,1,1.36986301369863
+mazerunner,black hair on the sides,1,1.36986301369863
+mazerunner,short stature,1,1.36986301369863
+mazerunner,narrowed eyes,1,1.36986301369863
+mazerunner,tight grin,1,1.36986301369863
+mazerunner,a tall frame,1,1.36986301369863
+mazerunner,a ridiculous posture,1,1.36986301369863
+mazerunner,strong arms,1,1.36986301369863
+mazerunner,short black hair,1,1.36986301369863
+mazerunner,skin covered in sweat,1,1.36986301369863
+mazerunner,a pale neck,1,1.36986301369863
+mazerunner,a scrawny neck,1,1.36986301369863
+mazerunner,black hair,1,1.36986301369863
+mazerunner,a snarl on a face,1,1.36986301369863
+mazerunner,heavy grogginess,1,1.36986301369863
+mazerunner,droopy eyes,1,1.36986301369863
+mazerunner,a long face,1,1.36986301369863
+mazerunner,bloodshot eyes,1,1.36986301369863
+mazerunner,a creased forehead with heavy lines,1,1.36986301369863
+mazerunner,a flushed red face,2,2.73972602739726
+mazerunner,fury-filled eyes,1,1.36986301369863
+mazerunner,small breaths,1,1.36986301369863
+mazerunner,pumping heart,1,1.36986301369863
+mazerunner,taut red skin,1,1.36986301369863
+mazerunner,full color skin,1,1.36986301369863
+mazerunner,eyes no longer crisscrossed with red veins,1,1.36986301369863
+mazerunner,blue eyes,2,2.73972602739726
+mazerunner,glowing eyes,1,1.36986301369863
+mazerunner,a long look of depression,1,1.36986301369863
+mazerunner,a weary look of depression,1,1.36986301369863
+mazerunner,sunken eyes,1,1.36986301369863
+mazerunner,hollow eyes,1,1.36986301369863
+mazerunner,a heavy limp,1,1.36986301369863
+mazerunner,a right leg,1,1.36986301369863
+mazerunner,haunted look,1,1.36986301369863
+mazerunner,eyes full of terror,1,1.36986301369863
+mazerunner,a huge gash on the forehead,1,1.36986301369863
+mazerunner,raised eyebrows,1,1.36986301369863
+mazerunner,a thin face,1,1.36986301369863
+mazerunner,dark eyes,1,1.36986301369863
+mazerunner,a pasty white face,1,1.36986301369863
+mazerunner,wet red eyes,1,1.36986301369863
+mazerunner,enormous blue eyes,1,1.36986301369863
+mazerunner,immaculate hair,1,1.36986301369863
+mazerunner,clean hands,1,1.36986301369863
+twilight1,dark eyes,2,1.4492753623188406
+twilight1,short hair,1,0.7246376811594203
+twilight1,laugh lines,1,0.7246376811594203
+twilight1,wide childlike eyes,1,0.7246376811594203
+twilight1,blue eyes,1,0.7246376811594203
+twilight1,red hair,1,0.7246376811594203
+twilight1,a porcelain-colored blonde,1,0.7246376811594203
+twilight1,light brown hair,3,2.1739130434782608
+twilight1,wildly curly dark hair,1,0.7246376811594203
+twilight1,a tiny stature,1,0.7246376811594203
+twilight1,big body,1,0.7246376811594203
+twilight1,dark curly hair,1,0.7246376811594203
+twilight1,muscled body,1,0.7246376811594203
+twilight1,lanky body,1,0.7246376811594203
+twilight1,untidy bronze-colored hair,1,0.7246376811594203
+twilight1,a beautiful figure,1,0.7246376811594203
+twilight1,a hard forearm,1,0.7246376811594203
+twilight1,a muscular forearm,1,0.7246376811594203
+twilight1,light skin,1,0.7246376811594203
+twilight1,an absurdly handsome face,1,0.7246376811594203
+twilight1,piercing hate-filled eyes,1,0.7246376811594203
+twilight1,a white face,1,0.7246376811594203
+twilight1,a red face,1,0.7246376811594203
+twilight1,flat black eyes,2,1.4492753623188406
+twilight1,pale skin,1,0.7246376811594203
+twilight1,auburn hair,1,0.7246376811594203
+twilight1,penetrating eyes,1,0.7246376811594203
+twilight1,a bright red face,1,0.7246376811594203
+twilight1,a tall figure,1,0.7246376811594203
+twilight1,a dark figure,1,0.7246376811594203
+twilight1,long black lashes,1,0.7246376811594203
+twilight1,ocher eyes,1,0.7246376811594203
+twilight1,bright eyes,1,0.7246376811594203
+twilight1,excited eyes,1,0.7246376811594203
+twilight1,shining straight black hair,1,0.7246376811594203
+twilight1,copper skin,1,0.7246376811594203
+twilight1,long glossy black hair,1,0.7246376811594203
+twilight1,beautiful skin,1,0.7246376811594203
+twilight1,silky skin,1,0.7246376811594203
+twilight1,russet-colored skin,1,0.7246376811594203
+twilight1,high planes of cheekbones,1,0.7246376811594203
+twilight1,a pretty face,1,0.7246376811594203
+twilight1,sharp teeth,1,0.7246376811594203
+twilight1,pointed teeth,1,0.7246376811594203
+twilight1,brown eyes,1,0.7246376811594203
+twilight1,crinkling eyes,1,0.7246376811594203
+twilight1,curly brown hair,1,0.7246376811594203
+twilight1,the shiny skin of a forehead,1,0.7246376811594203
+twilight1,a tall frame,1,0.7246376811594203
+twilight1,honey tints in a hair,1,0.7246376811594203
+twilight1,long gray hair,1,0.7246376811594203
+twilight1,hair worn straight down a back,1,0.7246376811594203
+twilight1,a blazing face,1,0.7246376811594203
+twilight1,blazing eyes,1,0.7246376811594203
+twilight1,short black hair,1,0.7246376811594203
+twilight1,muscular chest,1,0.7246376811594203
+twilight1,a long white hand,1,0.7246376811594203
+twilight1,large hands,1,0.7246376811594203
+twilight1,gentle eyes,1,0.7246376811594203
+twilight1,intense eyes,2,1.4492753623188406
+twilight1,wide eyes,6,4.3478260869565215
+twilight1,large white hands,1,0.7246376811594203
+twilight1,bright teeth,1,0.7246376811594203
+twilight1,thick bands of muscle,1,0.7246376811594203
+twilight1,a low voice,1,0.7246376811594203
+twilight1,rough voice,1,0.7246376811594203
+twilight1,cold skin,1,0.7246376811594203
+twilight1,black eyes,1,0.7246376811594203
+twilight1,a broad face,1,0.7246376811594203
+twilight1,flared nostrils,1,0.7246376811594203
+twilight1,clear eyes,1,0.7246376811594203
+twilight1,short inky hair,1,0.7246376811594203
+twilight1,an exquisite face,1,0.7246376811594203
+twilight1,an elfin face,1,0.7246376811594203
+twilight1,a slight frame,1,0.7246376811594203
+twilight1,a willowy frame,1,0.7246376811594203
+twilight1,a graceful frame,1,0.7246376811594203
+twilight1,clean hair,1,0.7246376811594203
+twilight1,impeccably straight hair,1,0.7246376811594203
+twilight1,smooth white skin of the throat,1,0.7246376811594203
+twilight1,marble contours of the chest,1,0.7246376811594203
+twilight1,perfect musculature,1,0.7246376811594203
+twilight1,a delicate cheek,1,0.7246376811594203
+twilight1,a stroked eyelid,1,0.7246376811594203
+twilight1,a purple shadow in the hollow under the eye,1,0.7246376811594203
+twilight1,long arms,1,0.7246376811594203
+twilight1,long hands,2,1.4492753623188406
+twilight1,nearly dry hair,1,0.7246376811594203
+twilight1,too bright eyes,1,0.7246376811594203
+twilight1,hectic spots of red across cheekbones,1,0.7246376811594203
+twilight1,gold eyes,1,0.7246376811594203
+twilight1,soft eyes,1,0.7246376811594203
+twilight1,a heart-shaped face,1,0.7246376811594203
+twilight1,"billows of soft , caramel-colored hair",1,0.7246376811594203
+twilight1,persuasive eyes,1,0.7246376811594203
+twilight1,perfect teeth,1,0.7246376811594203
+twilight1,reddish brown hair,1,0.7246376811594203
+twilight1,a wide grin,2,1.4492753623188406
+twilight1,long hair,2,1.4492753623188406
+twilight1,a startling shade of red hair,1,0.7246376811594203
+twilight1,sharp eyes,1,0.7246376811594203
+twilight1,olive-toned skin,1,0.7246376811594203
+twilight1,glossy black hair,1,0.7246376811594203
+twilight1,chaotic hair,1,0.7246376811594203
+twilight1,shifting eyes,1,0.7246376811594203
+twilight1,regular features,1,0.7246376811594203
+twilight1,slighter frame,1,0.7246376811594203
+twilight1,refined appearance,1,0.7246376811594203
+twilight1,glistening bared teeth,1,0.7246376811594203
+twilight1,wide nostrils,1,0.7246376811594203
+twilight1,beautiful eyes,1,0.7246376811594203
+twilight1,furious eyes,1,0.7246376811594203
+twilight1,a granite neck,1,0.7246376811594203
+twilight1,honest eyes,1,0.7246376811594203
+twilight1,a blue hand,1,0.7246376811594203
+twilight1,dark red eyes,1,0.7246376811594203
+twilight1,abnormally pale face,1,0.7246376811594203
+twilight1,strong eyes,1,0.7246376811594203
+twilight1,fresh youth,1,0.7246376811594203
+twilight1,dark shape,1,0.7246376811594203
+twilight1,cool strong fingers,1,0.7246376811594203
+twilight1,the terror in the eyes,1,0.7246376811594203
+twilight1,serious eyes,1,0.7246376811594203
+twilight1,a crooked smile,1,0.7246376811594203
+twilight1,snowy white skin,1,0.7246376811594203

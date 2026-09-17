@@ -1,0 +1,89 @@
+# ---- secrets ----
+.env
+# Internal release notes: IRB scope and evaluation caveats that are deliberately not
+# published. Untracked on purpose — ignored so it cannot be re-added by a broad `git add`.
+PUBLIC_RELEASE.md
+*.key
+*.pem
+credentials.json
+
+# re-link table for de-identification: never commit
+data/participant_id_mapping.PRIVATE.csv
+*.PRIVATE.csv
+
+# Author-side dataset tooling. The card is the Hub repo's README and is versioned there;
+# the upload script needs write access to it. Neither is usable or informative here.
+data/DATASET_CARD.md
+data/upload_to_hf.py
+data/merge_data.py
+
+# ---- the ratings themselves ----
+# Published on the Hugging Face Hub, which is where they are documented and versioned.
+# Fetch with `python data/download_ratings.py`. Committing a second copy here would mean
+# two tables that can disagree.
+data/*.csv
+
+# Prepared training data: data/<base>/[seed<N>/]<extract>_<prompt>/training_data.csv,
+# written by prep_data_for_training.py. Derived, and committing these trees is what once
+# let one training stage silently relabel the other's splits.
+data/*/
+
+# ---- model weights (the predictor lives on Hugging Face, never in git) ----
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.pkl
+**/final_model/
+**/lora_adapters/
+
+# ---- run outputs (kept locally, never committed) ----
+results/
+results_further/
+results_bestruns/
+results_hpsearch/
+checkpoints/
+outputs/
+wandb/
+wandb_runs/
+log/
+train.log
+# ...but llm_analysis/results/ IS committed: it holds the zero-shot model outputs
+# that section 5's tables and figures are built from. This negation is load-bearing,
+# because the generic `results/` pattern above matches it too.
+!llm_analysis/results/
+
+# LitBank source texts (~58 MB of public-domain Gutenberg novels). Not vendored:
+# fetch with `python novel_extractor/download_litbank.py`, which pins the upstream
+# commit and verifies against novel_extractor/litbank_checksums.sha256.
+novel_extractor/source/litbank/*.txt
+
+# Assembled by data/upload_to_hf.py at publish time; not a source artifact.
+data/.hf_staging/
+
+# ---- local-only working directories ----
+fixtures/
+_reference/
+tmp/
+temp/
+llm_analysis/discarded/
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.ipynb_checkpoints
+
+# ---- tooling / OS ----
+.claude/
+.vscode/
+.idea/
+.DS_Store
+*.swp

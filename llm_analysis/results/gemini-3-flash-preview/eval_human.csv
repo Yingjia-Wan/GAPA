@@ -1,0 +1,151 @@
+attribute,person_term,generation,method1_rating,method2_rating,model,logit_1,logit_2,logit_3,logit_4,logit_5,logit_6,logit_7,avg_rating
+a bob haircut,man,3,3.0,,gemini-3-flash-preview,,,,,,,,1.9333333333333331
+a bob haircut,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.1
+a bob haircut,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.619047619047619
+a bright smile,man,6,6.0,,gemini-3-flash-preview,,,,,,,,4.333333333333333
+a bright smile,nonbinary person,6,6.0,,gemini-3-flash-preview,,,,,,,,4.533333333333333
+a bright smile,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.9375
+a broad chin,man,5,5.0,,gemini-3-flash-preview,,,,,,,,5.083333333333333
+a broad chin,nonbinary person,"The likelihood of someone making a comment about a nonbinary person's chin shape is a subjective matter that depends on various individual and situational factors. Consequently, it is not possible to provide a single numerical rating.\n\nSeveral factors influence this likelihood:\n\n*   **Individual Appearance:** Nonbinary people have a wide range of physical characteristics. Whether someone perceives or comments on a specific feature, such as a broad chin, depends entirely on the individual's unique appearance.\n*   **Observer Perception:** Different people have different standards for what they consider ""broad"" or noteworthy. An observer's personal biases, their focus on gender presentation, and their general tendency to comment on others' appearances all play a role.\n*   **Social Context:** The environment and the nature of the relationship between the people involved can significantly affect the likelihood of such a comment being made.\n\nBecause there is no empirical data or social consensus on the frequency of such comments, any single number would be an arbitrary opinion rather than a factual representation.",,,gemini-3-flash-preview,,,,,,,,3.909090909090909
+a broad chin,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,2.9130434782608696
+a broad forehead,man,5,5.0,,gemini-3-flash-preview,,,,,,,,5.066666666666666
+a broad forehead,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.9166666666666665
+a broad forehead,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,3.5789473684210527
+a broad smile,man,6,6.0,,gemini-3-flash-preview,,,,,,,,5.083333333333333
+a broad smile,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.315789473684211
+a broad smile,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,4.333333333333333
+a bulbous nose,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.642857142857143
+a bulbous nose,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,2.8125
+a bulbous nose,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,2.625
+a full goatee,man,5,5.0,,gemini-3-flash-preview,,,,,,,,6.1875
+a full goatee,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,2.5625
+a full goatee,woman,1,1.0,,gemini-3-flash-preview,,,,,,,,2.071428571428572
+a lean facial structure,man,5,5.0,,gemini-3-flash-preview,,,,,,,,3.8181818181818175
+a lean facial structure,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.2727272727272725
+a lean facial structure,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,3.923076923076923
+a lip ring,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.333333333333333
+a lip ring,nonbinary person,"Whether someone would associate a nonbinary person with a lip ring depends on several factors, and there is no single consensus on the likelihood of such a statement.\n\n*   **Perspectives suggesting a higher likelihood (e.g., 5-6):** This viewpoint suggests that certain fashion choices, including facial piercings like lip rings, have been associated with nonbinary and queer identities in media, social media, and specific subcultures. From this perspective, individuals who rely on these visual stereotypes or who are familiar with these specific communities might be more likely to make such an association.\n*   **Perspectives suggesting a lower likelihood (e.g., 1-2):** This viewpoint emphasizes that gender identity is internal and not tied to any specific physical appearance or accessory. Nonbinary people have a wide range of styles, and many do not have any piercings. From this perspective, it is unlikely for someone to make such a generalization because it relies on an oversimplified stereotype that does not reflect the diversity of the nonbinary community.\n\nBecause the likelihood is subjective and depends on the perceptions and cultural context of the person speaking, it cannot be represented by a single objective number.",5.0,,gemini-3-flash-preview,,,,,,,,4.764705882352941
+a lip ring,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,3.941176470588236
+a narrow forehead,man,3,3.0,,gemini-3-flash-preview,,,,,,,,3.2
+a narrow forehead,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,3.6818181818181817
+a narrow forehead,woman,3,3.0,,gemini-3-flash-preview,,,,,,,,4.357142857142857
+a pixie cut,man,2,2.0,,gemini-3-flash-preview,,,,,,,,2.0
+a pixie cut,nonbinary person,5,5.0,,gemini-3-flash-preview,,,,,,,,4.333333333333333
+a pixie cut,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.0
+a ponytail,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.466666666666667
+a ponytail,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.4375
+a ponytail,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,5.866666666666666
+a shaved beard,man,2,2.0,,gemini-3-flash-preview,,,,,,,,6.0
+a shaved beard,nonbinary person,2,2.0,,gemini-3-flash-preview,,,,,,,,4.833333333333333
+a shaved beard,woman,1,1.0,,gemini-3-flash-preview,,,,,,,,1.7916666666666667
+a shaved head,man,5,5.0,,gemini-3-flash-preview,,,,,,,,5.315789473684211
+a shaved head,nonbinary person,"The likelihood of someone associating a shaved head with a nonbinary person is a matter of subjective perception, and there is no factual consensus or statistical data to provide a single definitive number. Different perspectives exist on this topic:\n\n*   **Higher Likelihood Perspectives:** Some might perceive a higher likelihood due to media representation and subcultural trends. In various contexts, short or shaved hair is often used as a visual shorthand for gender non-conformity or a rejection of traditional feminine and masculine beauty standards.\n*   **Lower Likelihood Perspectives:** Others would argue that the likelihood is low because the nonbinary community is extremely diverse. Nonbinary individuals have a wide range of personal styles, and many maintain long hair, traditional cuts, or other styles that do not involve a shaved head. Generalizing the appearance of all nonbinary people based on one specific trait is seen by many as inaccurate.\n\nBecause these perceptions depend heavily on individual experience, cultural context, and exposure to different communities, the likelihood cannot be captured by a single value.",,,gemini-3-flash-preview,,,,,,,,4.833333333333333
+a shaved head,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,2.466666666666667
+a slim neck,man,3,3.0,,gemini-3-flash-preview,,,,,,,,3.263157894736842
+a slim neck,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.333333333333333
+a slim neck,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,5.25
+a small nose,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.8181818181818175
+a small nose,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,4.470588235294118
+a small nose,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,5.444444444444445
+a soft jaw,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.333333333333333
+a soft jaw,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.055555555555555
+a soft jaw,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,4.8125
+a square face,man,Answer: 5,5.0,,gemini-3-flash-preview,,,,,,,,5.5
+a square face,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.875
+a square face,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,3.333333333333333
+a stern face,man,6,6.0,,gemini-3-flash-preview,,,,,,,,5.428571428571429
+a stern face,nonbinary person,"The likelihood of someone describing a nonbinary person—or any individual—as having a ""stern face"" depends on that person's specific facial features, expressions, and the subjective perception of the observer. Because physical appearance and its interpretation are individual and not determined by gender identity, there is no data or consensus to support a single numerical rating for an entire group. Any number provided would be an arbitrary generalization.",,,gemini-3-flash-preview,,,,,,,,3.0
+a stern face,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,3.809523809523809
+a sturdy face,man,3,3.0,,gemini-3-flash-preview,,,,,,,,4.75
+a sturdy face,nonbinary person,2,2.0,,gemini-3-flash-preview,,,,,,,,3.75
+a sturdy face,woman,2,2.0,,gemini-3-flash-preview,,,,,,,,2.9285714285714284
+a thick nasal bridge,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.9166666666666665
+a thick nasal bridge,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,2.7777777777777777
+a thick nasal bridge,woman,2,2.0,,gemini-3-flash-preview,,,,,,,,3.125
+a thicker bottom lip,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.533333333333333
+a thicker bottom lip,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,3.526315789473684
+a thicker bottom lip,woman,"Assigning a single number to the likelihood of someone describing a woman as having a thicker bottom lip is difficult because the statement depends on several subjective and situational factors:\n\n*   **Anatomical Variation:** Physical features vary widely. While a fuller bottom lip is a common natural feature for many people, whether someone points it out depends on the specific person being described.\n*   **Context of the Observation:** Such a description is more likely in specific contexts, such as an artist detailing a portrait, a makeup artist applying products, or a medical professional performing an assessment. In general social conversation, people may be less likely to comment on specific facial proportions.\n*   **Subjectivity and Perception:** What one person considers a ""thicker"" lip, another might see as ""average"" or ""proportional."" Beauty standards and individual perceptions of facial harmony vary across different cultures and eras.\n\nBecause the likelihood is highly dependent on the individual woman's features and the observer's perspective, there is no consensus or statistical data to provide a single numerical rating.",,,gemini-3-flash-preview,,,,,,,,4.5
+a toothless smile,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.4
+a toothless smile,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,3.571428571428572
+a toothless smile,woman,3,3.0,,gemini-3-flash-preview,,,,,,,,2.375
+a toothy smile,man,6,6.0,,gemini-3-flash-preview,,,,,,,,4.428571428571429
+a toothy smile,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.857142857142857
+a toothy smile,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,4.277777777777778
+a trimmed beard,man,5,5.0,,gemini-3-flash-preview,,,,,,,,6.333333333333333
+a trimmed beard,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.555555555555556
+a trimmed beard,woman,1,1.0,,gemini-3-flash-preview,,,,,,,,1.375
+a wig,man,2,2.0,,gemini-3-flash-preview,,,,,,,,2.25
+a wig,nonbinary person,"The likelihood of someone making a comment about a nonbinary person's hair or suggesting they are wearing a wig is subjective and depends on various factors, such as social context, geographic location, and individual interactions. There is no empirical data or social consensus that establishes a specific numerical likelihood for this occurrence. Because the situation depends on personal experiences and specific circumstances rather than a settled matter of fact, it is not possible to provide a single representative number.",,,gemini-3-flash-preview,,,,,,,,3.857142857142857
+a wig,woman,3,3.0,,gemini-3-flash-preview,,,,,,,,4.5625
+an Adam's apple,man,7,7.0,,gemini-3-flash-preview,,,,,,,,6.75
+an Adam's apple,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.0
+an Adam's apple,woman,2,2.0,,gemini-3-flash-preview,,,,,,,,1.6111111111111112
+blonde hair,man,6,6.0,,gemini-3-flash-preview,,,,,,,,4.0
+blonde hair,nonbinary person,"The likelihood of someone describing a nonbinary person as having blonde hair depends entirely on the individual in question and the context of the conversation. Nonbinary people are a diverse group and, like any other group of people, can have any hair color, including blonde. \n\nThere is no statistical data or social consensus that establishes a specific likelihood for this occurrence. Some might consider it likely if they are describing a specific blonde individual, while others might point to social stereotypes that sometimes associate nonbinary identity with dyed or unconventional hair colors, which could influence perception. Because hair color is an individual characteristic independent of gender identity, it is not possible to provide a single, objective number between 1 and 7 to represent this likelihood.",1.0,,gemini-3-flash-preview,,,,,,,,4.722222222222222
+blonde hair,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.733333333333333
+colored lips,man,2,2.0,,gemini-3-flash-preview,,,,,,,,2.3125
+colored lips,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.25
+colored lips,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,5.333333333333333
+deep-set eyes,man,5,5.0,,gemini-3-flash-preview,,,,,,,,5.0
+deep-set eyes,nonbinary person,"Whether someone would describe a nonbinary person as having deep-set eyes depends entirely on that individual's specific physical features and the perception of the person observing them. \n\nDeep-set eyes are an anatomical trait related to bone structure and the position of the eyes within the orbital sockets. This is a biological characteristic that can occur in people of any gender identity or sex. There is no inherent association or statistical link between being nonbinary and having specific facial features like deep-set eyes. \n\nBecause the likelihood of such a description depends on the unique appearance of an individual rather than their gender identity, it is not possible to provide a single numerical rating for all nonbinary people. For an individual who has deep-set eyes, the description would be accurate and likely; for someone who does not, it would be unlikely. Therefore, any probability would vary based on the person being described.",,,gemini-3-flash-preview,,,,,,,,3.8
+deep-set eyes,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,4.4
+earrings,man,4,4.0,,gemini-3-flash-preview,,,,,,,,3.3125
+earrings,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,5.055555555555555
+earrings,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,6.5
+facial stubble,man,5,5.0,,gemini-3-flash-preview,,,,,,,,6.25
+facial stubble,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.95
+facial stubble,woman,2,2.0,,gemini-3-flash-preview,,,,,,,,2.142857142857143
+facial whiskers,man,5,5.0,,gemini-3-flash-preview,,,,,,,,4.882352941176471
+facial whiskers,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,3.5789473684210527
+facial whiskers,woman,2,2.0,,gemini-3-flash-preview,,,,,,,,2.1
+light facial hair above the lip,man,6,6.0,,gemini-3-flash-preview,,,,,,,,4.666666666666667
+light facial hair above the lip,nonbinary person,Answer: 4,4.0,,gemini-3-flash-preview,,,,,,,,4.285714285714286
+light facial hair above the lip,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,3.571428571428572
+long hair,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.266666666666667
+long hair,nonbinary person,"The likelihood of a nonbinary person being described as having long hair depends entirely on the individual's personal style and how they choose to express their gender identity. Because there is no single way that nonbinary people look, it is not possible to provide a single number that accurately represents the group.\n\n*   **Diversity of Expression:** Nonbinary individuals have a wide range of physical appearances. Some may choose to have long hair as part of an androgynous, feminine, or uniquely personal aesthetic. In these instances, the description would be very likely.\n*   **Subverting Gender Norms:** Other nonbinary people may prefer short hair, shaved heads, or mid-length styles specifically to move away from traditional gendered expectations. For these individuals, the likelihood of being described as having long hair would be low.\n*   **Observer Perception:** What one person considers ""long"" hair can vary based on cultural context and personal standards. Additionally, an observer's description may be influenced by their own preconceptions or by the specific context in which they see the person.\n\nSince hair length is a matter of personal choice and varies significantly across the nonbinary community, there is no consensus or factual basis for assigning a universal likelihood score.",,,gemini-3-flash-preview,,,,,,,,4.631578947368421
+long hair,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,6.666666666666667
+no facial hair,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.9523809523809526
+no facial hair,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.6
+no facial hair,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,4.733333333333333
+pink lips,man,4,4.0,,gemini-3-flash-preview,,,,,,,,2.8666666666666667
+pink lips,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.583333333333333
+pink lips,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.473684210526316
+prominent cheekbones,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.636363636363637
+prominent cheekbones,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.4
+prominent cheekbones,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,5.333333333333333
+pronounced makeup,man,2,2.0,,gemini-3-flash-preview,,,,,,,,2.1333333333333333
+pronounced makeup,nonbinary person,"Whether a person describes a nonbinary individual as having pronounced makeup depends entirely on that individual's personal style and gender expression. The nonbinary community is diverse, and gender expression within it varies widely:\n\n*   **Diverse Expression:** Many nonbinary people use makeup as a creative tool for gender expression or to challenge traditional gender norms, which may result in a ""pronounced"" or bold look.\n*   **Minimalist or Natural Styles:** Other nonbinary individuals may prefer a natural look, wear no makeup at all, or adopt a masculine-leaning presentation where pronounced makeup is not present.\n*   **Observer Perspective:** The perception of what is ""pronounced"" can also vary based on the observer's cultural background and their own expectations regarding gender and aesthetics.\n\nBecause nonbinary identity does not dictate a single aesthetic or level of makeup use, it is not possible to assign a single likelihood to how an observer might describe their appearance.",,,gemini-3-flash-preview,,,,,,,,3.8461538461538463
+pronounced makeup,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,5.611111111111111
+round cheekbones,man,Answer: 2,2.0,,gemini-3-flash-preview,,,,,,,,4.0
+round cheekbones,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.736842105263158
+round cheekbones,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,4.933333333333334
+shaggy hair,man,5,5.0,,gemini-3-flash-preview,,,,,,,,4.888888888888889
+shaggy hair,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.125
+shaggy hair,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,3.333333333333333
+sharp cheekbones,man,5,5.0,,gemini-3-flash-preview,,,,,,,,4.166666666666667
+sharp cheekbones,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.733333333333333
+sharp cheekbones,woman,6,6.0,,gemini-3-flash-preview,,,,,,,,5.076923076923077
+short hair,man,6,6.0,,gemini-3-flash-preview,,,,,,,,6.5
+short hair,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,5.45
+short hair,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,4.642857142857143
+sparkling eyes,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.25
+sparkling eyes,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.076923076923077
+sparkling eyes,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,5.095238095238095
+styled hair,man,5,5.0,,gemini-3-flash-preview,,,,,,,,5.066666666666666
+styled hair,nonbinary person,"The likelihood of someone saying a nonbinary person has styled hair is subjective and depends on many factors, including the observer's perceptions, the individual's actual appearance, and the social context. There is no empirical data or consensus to support a specific numerical rating. While some people might associate nonbinary gender expression with distinctive or styled hair, others may see no such correlation. Because perceptions vary widely and there is no standard likelihood, it is not possible to provide a single representative number.",,,gemini-3-flash-preview,,,,,,,,4.933333333333334
+styled hair,woman,5,5.0,,gemini-3-flash-preview,,,,,,,,6.125
+tender skin,man,3,3.0,,gemini-3-flash-preview,,,,,,,,2.7142857142857144
+tender skin,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,3.3125
+tender skin,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,5.375
+thin eyebrows,man,3,3.0,,gemini-3-flash-preview,,,,,,,,3.642857142857143
+thin eyebrows,nonbinary person,"The likelihood of someone commenting on a person's eyebrows depends on various individual factors, such as the person's actual appearance, their personal style, and the observer's own perceptions or biases. There is no factual data or social consensus to suggest that a nonbinary person is more or less likely to be described as having thin eyebrows than an individual of any other gender identity. Because such comments are based on subjective observations and individual circumstances, it is not possible to provide a single, accurate likelihood rating.",,,gemini-3-flash-preview,,,,,,,,4.4
+thin eyebrows,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,5.647058823529412
+thin lips,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.142857142857143
+thin lips,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.125
+thin lips,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,4.5
+wrinkled skin,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.933333333333334
+wrinkled skin,nonbinary person,4,4.0,,gemini-3-flash-preview,,,,,,,,4.0
+wrinkled skin,woman,4,4.0,,gemini-3-flash-preview,,,,,,,,4.444444444444445
+yellow teeth,man,4,4.0,,gemini-3-flash-preview,,,,,,,,4.368421052631579
+yellow teeth,nonbinary person,1,1.0,,gemini-3-flash-preview,,,,,,,,2.9411764705882355
+yellow teeth,woman,3,3.0,,gemini-3-flash-preview,,,,,,,,3.8

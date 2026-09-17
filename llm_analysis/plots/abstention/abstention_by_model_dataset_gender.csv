@@ -1,0 +1,265 @@
+model,dataset,person_term,missing_rating,text_abstention,abstention,total,pct_missing_rating,pct_text_abstention,pct_abstention
+Meta-Llama-3-8B,all,man,0,0,0,188,0.0,0.0,0.0
+Meta-Llama-3-8B,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Meta-Llama-3-8B,all,woman,0,0,0,188,0.0,0.0,0.0
+Meta-Llama-3-8B,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Meta-Llama-3-8B,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Meta-Llama-3-8B,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Meta-Llama-3-8B,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Meta-Llama-3-8B-Instruct,all,man,0,3,3,188,0.0,0.015957446808510637,0.015957446808510637
+Meta-Llama-3-8B-Instruct,all,nonbinary person,0,18,18,188,0.0,0.09574468085106383,0.09574468085106383
+Meta-Llama-3-8B-Instruct,all,woman,0,5,5,188,0.0,0.026595744680851064,0.026595744680851064
+Meta-Llama-3-8B-Instruct,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Meta-Llama-3-8B-Instruct,combined_llm,nonbinary person,0,2,2,42,0.0,0.047619047619047616,0.047619047619047616
+Meta-Llama-3-8B-Instruct,combined_llm,woman,0,3,3,42,0.0,0.07142857142857142,0.07142857142857142
+Meta-Llama-3-8B-Instruct,eval_human,man,0,1,1,50,0.0,0.02,0.02
+Meta-Llama-3-8B-Instruct,eval_human,nonbinary person,0,9,9,50,0.0,0.18,0.18
+Meta-Llama-3-8B-Instruct,eval_human,woman,0,1,1,50,0.0,0.02,0.02
+Meta-Llama-3-8B-Instruct,eval_novel,man,0,2,2,96,0.0,0.020833333333333332,0.020833333333333332
+Meta-Llama-3-8B-Instruct,eval_novel,nonbinary person,0,7,7,96,0.0,0.07291666666666667,0.07291666666666667
+Meta-Llama-3-8B-Instruct,eval_novel,woman,0,1,1,96,0.0,0.010416666666666666,0.010416666666666666
+Mistral-7B-Instruct-v0.3,all,man,0,1,1,188,0.0,0.005319148936170213,0.005319148936170213
+Mistral-7B-Instruct-v0.3,all,nonbinary person,0,22,22,188,0.0,0.11702127659574468,0.11702127659574468
+Mistral-7B-Instruct-v0.3,all,woman,0,1,1,188,0.0,0.005319148936170213,0.005319148936170213
+Mistral-7B-Instruct-v0.3,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Mistral-7B-Instruct-v0.3,combined_llm,nonbinary person,0,5,5,42,0.0,0.11904761904761904,0.11904761904761904
+Mistral-7B-Instruct-v0.3,combined_llm,woman,0,1,1,42,0.0,0.023809523809523808,0.023809523809523808
+Mistral-7B-Instruct-v0.3,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Mistral-7B-Instruct-v0.3,eval_human,nonbinary person,0,6,6,50,0.0,0.12,0.12
+Mistral-7B-Instruct-v0.3,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Mistral-7B-Instruct-v0.3,eval_novel,man,0,1,1,96,0.0,0.010416666666666666,0.010416666666666666
+Mistral-7B-Instruct-v0.3,eval_novel,nonbinary person,0,11,11,96,0.0,0.11458333333333333,0.11458333333333333
+Mistral-7B-Instruct-v0.3,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Mistral-7B-v0.3,all,man,0,0,0,188,0.0,0.0,0.0
+Mistral-7B-v0.3,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Mistral-7B-v0.3,all,woman,0,0,0,188,0.0,0.0,0.0
+Mistral-7B-v0.3,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Mistral-7B-v0.3,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Mistral-7B-v0.3,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Mistral-7B-v0.3,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,all,man,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,all,woman,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_human,man,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-DPO,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,all,man,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,all,woman,0,0,0,188,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_human,man,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+OLMo-2-1124-7B-SFT,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+OLMo2-7B-1124,all,man,0,0,0,188,0.0,0.0,0.0
+OLMo2-7B-1124,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+OLMo2-7B-1124,all,woman,0,0,0,188,0.0,0.0,0.0
+OLMo2-7B-1124,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+OLMo2-7B-1124,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+OLMo2-7B-1124,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+OLMo2-7B-1124,eval_human,man,0,0,0,50,0.0,0.0,0.0
+OLMo2-7B-1124,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+OLMo2-7B-1124,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+OLMo2-7B-1124,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+OLMo2-7B-1124,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+OLMo2-7B-1124,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-14B,all,man,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-14B,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-14B,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-14B,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-14B,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-14B,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-14B,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-14B,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-14B,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-14B,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-14B,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-14B,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-14B-Instruct,all,man,3,4,7,188,0.015957446808510637,0.02127659574468085,0.03723404255319149
+Qwen2.5-14B-Instruct,all,nonbinary person,0,28,28,188,0.0,0.14893617021276595,0.14893617021276595
+Qwen2.5-14B-Instruct,all,woman,10,3,13,188,0.05319148936170213,0.015957446808510637,0.06914893617021277
+Qwen2.5-14B-Instruct,combined_llm,man,0,2,2,42,0.0,0.047619047619047616,0.047619047619047616
+Qwen2.5-14B-Instruct,combined_llm,nonbinary person,0,4,4,42,0.0,0.09523809523809523,0.09523809523809523
+Qwen2.5-14B-Instruct,combined_llm,woman,3,0,3,42,0.07142857142857142,0.0,0.07142857142857142
+Qwen2.5-14B-Instruct,eval_human,man,1,1,2,50,0.02,0.02,0.04
+Qwen2.5-14B-Instruct,eval_human,nonbinary person,0,7,7,50,0.0,0.14,0.14
+Qwen2.5-14B-Instruct,eval_human,woman,3,1,4,50,0.06,0.02,0.08
+Qwen2.5-14B-Instruct,eval_novel,man,2,1,3,96,0.020833333333333332,0.010416666666666666,0.03125
+Qwen2.5-14B-Instruct,eval_novel,nonbinary person,0,17,17,96,0.0,0.17708333333333334,0.17708333333333334
+Qwen2.5-14B-Instruct,eval_novel,woman,4,2,6,96,0.041666666666666664,0.020833333333333332,0.0625
+Qwen2.5-32B,all,man,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-32B,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-32B,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-32B,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-32B,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-32B,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-32B,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-32B,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-32B,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-32B,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-32B,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-32B,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,all,man,0,3,3,188,0.0,0.015957446808510637,0.015957446808510637
+Qwen2.5-32B-Instruct,all,nonbinary person,0,32,32,188,0.0,0.1702127659574468,0.1702127659574468
+Qwen2.5-32B-Instruct,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,combined_llm,nonbinary person,0,4,4,42,0.0,0.09523809523809523,0.09523809523809523
+Qwen2.5-32B-Instruct,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,eval_human,man,0,2,2,50,0.0,0.04,0.04
+Qwen2.5-32B-Instruct,eval_human,nonbinary person,0,11,11,50,0.0,0.22,0.22
+Qwen2.5-32B-Instruct,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-32B-Instruct,eval_novel,man,0,1,1,96,0.0,0.010416666666666666,0.010416666666666666
+Qwen2.5-32B-Instruct,eval_novel,nonbinary person,0,17,17,96,0.0,0.17708333333333334,0.17708333333333334
+Qwen2.5-32B-Instruct,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-3B,all,man,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-3B,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-3B,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-3B,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-3B,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-3B,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-3B,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-3B,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-3B,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-3B,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-3B,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-3B,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,all,man,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,all,nonbinary person,0,4,4,188,0.0,0.02127659574468085,0.02127659574468085
+Qwen2.5-3B-Instruct,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,combined_llm,nonbinary person,0,1,1,42,0.0,0.023809523809523808,0.023809523809523808
+Qwen2.5-3B-Instruct,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,eval_human,nonbinary person,0,1,1,50,0.0,0.02,0.02
+Qwen2.5-3B-Instruct,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-3B-Instruct,eval_novel,nonbinary person,0,2,2,96,0.0,0.020833333333333332,0.020833333333333332
+Qwen2.5-3B-Instruct,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-7B,all,man,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-7B,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-7B,all,woman,0,0,0,188,0.0,0.0,0.0
+Qwen2.5-7B,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-7B,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-7B,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-7B,eval_human,man,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-7B,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-7B,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+Qwen2.5-7B,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-7B,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-7B,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-7B-Instruct,all,man,0,1,1,188,0.0,0.005319148936170213,0.005319148936170213
+Qwen2.5-7B-Instruct,all,nonbinary person,0,24,24,188,0.0,0.1276595744680851,0.1276595744680851
+Qwen2.5-7B-Instruct,all,woman,0,2,2,188,0.0,0.010638297872340425,0.010638297872340425
+Qwen2.5-7B-Instruct,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+Qwen2.5-7B-Instruct,combined_llm,nonbinary person,0,3,3,42,0.0,0.07142857142857142,0.07142857142857142
+Qwen2.5-7B-Instruct,combined_llm,woman,0,1,1,42,0.0,0.023809523809523808,0.023809523809523808
+Qwen2.5-7B-Instruct,eval_human,man,0,1,1,50,0.0,0.02,0.02
+Qwen2.5-7B-Instruct,eval_human,nonbinary person,0,4,4,50,0.0,0.08,0.08
+Qwen2.5-7B-Instruct,eval_human,woman,0,1,1,50,0.0,0.02,0.02
+Qwen2.5-7B-Instruct,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+Qwen2.5-7B-Instruct,eval_novel,nonbinary person,0,17,17,96,0.0,0.17708333333333334,0.17708333333333334
+Qwen2.5-7B-Instruct,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+claude-opus-4-6,all,man,0,0,0,188,0.0,0.0,0.0
+claude-opus-4-6,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+claude-opus-4-6,all,woman,0,0,0,188,0.0,0.0,0.0
+claude-opus-4-6,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+claude-opus-4-6,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+claude-opus-4-6,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+claude-opus-4-6,eval_human,man,0,0,0,50,0.0,0.0,0.0
+claude-opus-4-6,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+claude-opus-4-6,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+claude-opus-4-6,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+claude-opus-4-6,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+claude-opus-4-6,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+gemini-3-flash-preview,all,man,0,0,0,188,0.0,0.0,0.0
+gemini-3-flash-preview,all,nonbinary person,30,8,31,188,0.1595744680851064,0.0425531914893617,0.16489361702127658
+gemini-3-flash-preview,all,woman,2,0,2,188,0.010638297872340425,0.0,0.010638297872340425
+gemini-3-flash-preview,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+gemini-3-flash-preview,combined_llm,nonbinary person,5,3,5,42,0.11904761904761904,0.07142857142857142,0.11904761904761904
+gemini-3-flash-preview,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+gemini-3-flash-preview,eval_human,man,0,0,0,50,0.0,0.0,0.0
+gemini-3-flash-preview,eval_human,nonbinary person,9,2,10,50,0.18,0.04,0.2
+gemini-3-flash-preview,eval_human,woman,1,0,1,50,0.02,0.0,0.02
+gemini-3-flash-preview,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+gemini-3-flash-preview,eval_novel,nonbinary person,16,3,16,96,0.16666666666666666,0.03125,0.16666666666666666
+gemini-3-flash-preview,eval_novel,woman,1,0,1,96,0.010416666666666666,0.0,0.010416666666666666
+gpt-4o,all,man,0,0,0,188,0.0,0.0,0.0
+gpt-4o,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+gpt-4o,all,woman,0,0,0,188,0.0,0.0,0.0
+gpt-4o,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+gpt-4o,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+gpt-4o,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+gpt-4o,eval_human,man,0,0,0,50,0.0,0.0,0.0
+gpt-4o,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+gpt-4o,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+gpt-4o,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+gpt-4o,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+gpt-4o,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+gpt-4o-mini,all,man,0,0,0,188,0.0,0.0,0.0
+gpt-4o-mini,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+gpt-4o-mini,all,woman,0,0,0,188,0.0,0.0,0.0
+gpt-4o-mini,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+gpt-4o-mini,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+gpt-4o-mini,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+gpt-4o-mini,eval_human,man,0,0,0,50,0.0,0.0,0.0
+gpt-4o-mini,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+gpt-4o-mini,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+gpt-4o-mini,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+gpt-4o-mini,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+gpt-4o-mini,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+gpt-5.2,all,man,0,0,0,188,0.0,0.0,0.0
+gpt-5.2,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+gpt-5.2,all,woman,0,0,0,188,0.0,0.0,0.0
+gpt-5.2,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+gpt-5.2,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+gpt-5.2,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+gpt-5.2,eval_human,man,0,0,0,50,0.0,0.0,0.0
+gpt-5.2,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+gpt-5.2,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+gpt-5.2,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+gpt-5.2,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+gpt-5.2,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+gpt-oss-20b,all,man,0,0,0,188,0.0,0.0,0.0
+gpt-oss-20b,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+gpt-oss-20b,all,woman,0,0,0,188,0.0,0.0,0.0
+gpt-oss-20b,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+gpt-oss-20b,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+gpt-oss-20b,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+gpt-oss-20b,eval_human,man,0,0,0,50,0.0,0.0,0.0
+gpt-oss-20b,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+gpt-oss-20b,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+gpt-oss-20b,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+gpt-oss-20b,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+gpt-oss-20b,eval_novel,woman,0,0,0,96,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,all,man,0,0,0,188,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,all,nonbinary person,0,0,0,188,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,all,woman,0,0,0,188,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,combined_llm,man,0,0,0,42,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,combined_llm,nonbinary person,0,0,0,42,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,combined_llm,woman,0,0,0,42,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_human,man,0,0,0,50,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_human,nonbinary person,0,0,0,50,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_human,woman,0,0,0,50,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_novel,man,0,0,0,96,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_novel,nonbinary person,0,0,0,96,0.0,0.0,0.0
+grok-4-1-fast-non-reasoning,eval_novel,woman,0,0,0,96,0.0,0.0,0.0

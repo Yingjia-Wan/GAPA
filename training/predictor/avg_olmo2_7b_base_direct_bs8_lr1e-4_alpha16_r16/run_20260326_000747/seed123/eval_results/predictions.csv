@@ -1,0 +1,283 @@
+attribute,person_term,predicted,true,error
+a big build,man,5.734375,6.357143,-0.6227679
+a big build,nonbinary person,3.671875,4.6153846,-0.9435096
+a big build,woman,3.765625,4.4615383,-0.6959133
+a broad chin,man,5.6640625,5.0833335,0.580729
+a broad chin,nonbinary person,3.7539062,3.909091,-0.15518475
+a broad chin,woman,3.3789062,2.9130435,0.46586275
+a bulbous nose,man,4.703125,4.642857,0.060267925
+a bulbous nose,nonbinary person,3.671875,2.8125,0.859375
+a bulbous nose,woman,3.4492188,2.625,0.82421875
+a chiseled jawline,man,5.6875,6.0,-0.3125
+a chiseled jawline,nonbinary person,4.3984375,3.7692308,0.62920666
+a chiseled jawline,woman,3.4960938,2.2173913,1.2787025
+a compact frame,man,4.703125,4.5,0.203125
+a compact frame,nonbinary person,4.234375,3.5882354,0.6461396
+a compact frame,woman,5.03125,4.846154,0.18509579
+a confident posture,man,5.125,5.272727,-0.14772701
+a confident posture,nonbinary person,3.9882812,4.0,-0.01171875
+a confident posture,woman,4.9375,4.8947372,0.042762756
+a curvy build,man,3.4023438,2.5365853,0.8657584
+a curvy build,nonbinary person,4.1640625,3.764706,0.3993566
+a curvy build,woman,5.8515625,6.230769,-0.37920666
+a defined waist,man,4.84375,2.9333334,1.9104166
+a defined waist,nonbinary person,4.0,3.7777777,0.22222233
+a defined waist,woman,5.125,6.083333,-0.958333
+a fair and young face,man,4.3515625,4.125,0.2265625
+a fair and young face,nonbinary person,4.140625,4.7333336,-0.5927086
+a fair and young face,woman,5.3125,6.083333,-0.770833
+a flat stomach,man,5.2890625,5.571429,-0.28236628
+a flat stomach,nonbinary person,4.46875,4.285714,0.18303585
+a flat stomach,woman,5.40625,5.2999997,0.106250286
+a flushed complexion,man,4.2578125,3.25,1.0078125
+a flushed complexion,nonbinary person,4.046875,4.2000003,-0.15312529
+a flushed complexion,woman,4.984375,5.2941175,-0.30974245
+a fringe of thin black hair,man,4.1171875,3.8461537,0.27103376
+a fringe of thin black hair,nonbinary person,3.9296875,3.5384617,0.3912258
+a fringe of thin black hair,woman,4.140625,2.7,1.440625
+a full goatee,man,5.21875,6.1875,-0.96875
+a full goatee,nonbinary person,3.6132812,2.5625,1.0507812
+a full goatee,woman,2.5585938,2.0714285,0.4871652
+a furrowed brow,man,4.421875,4.25,0.171875
+a furrowed brow,nonbinary person,3.390625,4.105263,-0.71463823
+a furrowed brow,woman,3.625,4.0,-0.375
+a graceful figure,man,3.15625,2.6153846,0.5408654
+a graceful figure,nonbinary person,4.09375,2.5714288,1.5223212
+a graceful figure,woman,5.7578125,6.230769,-0.47295666
+a high forehead,man,4.7734375,4.6666665,0.10677099
+a high forehead,nonbinary person,3.8828125,3.6666667,0.21614575
+a high forehead,woman,4.046875,4.75,-0.703125
+a kissable mouth,man,3.5664062,4.5714283,-1.005022
+a kissable mouth,nonbinary person,3.8710938,3.8333333,0.037760496
+a kissable mouth,woman,5.1015625,5.727273,-0.6257105
+a large pink face,man,3.4726562,3.6,-0.12734365
+a large pink face,nonbinary person,3.3203125,2.3888888,0.93142366
+a large pink face,woman,3.4960938,3.375,0.12109375
+a lean facial structure,man,4.65625,3.8181818,0.83806825
+a lean facial structure,nonbinary person,4.1640625,4.2727275,-0.10866499
+a lean facial structure,woman,4.6328125,3.9230769,0.70973563
+a pointed chin,man,5.0546875,4.952381,0.102306366
+a pointed chin,nonbinary person,3.7890625,4.133333,-0.3442707
+a pointed chin,woman,3.7539062,4.5,-0.74609375
+a ponytail,man,3.4609375,3.4666667,-0.0057291985
+a ponytail,nonbinary person,4.3984375,4.4375,-0.0390625
+a ponytail,woman,5.6640625,5.866667,-0.2026043
+a prominent nose,man,5.4765625,5.2777777,0.19878483
+a prominent nose,nonbinary person,4.375,4.0588236,0.3161764
+a prominent nose,woman,4.703125,4.5,0.203125
+a puffy face,man,4.1171875,4.9500003,-0.8328128
+a puffy face,nonbinary person,3.578125,3.8333333,-0.25520825
+a puffy face,woman,4.09375,5.25,-1.15625
+a receding hairline,man,5.3828125,6.5625,-1.1796875
+a receding hairline,nonbinary person,4.140625,4.6875,-0.546875
+a receding hairline,woman,3.7890625,3.6875,0.1015625
+a red face,man,4.3046875,5.333333,-1.0286455
+a red face,nonbinary person,3.296875,3.0555556,0.24131942
+a red face,woman,3.7539062,4.294118,-0.5402117
+a sharp face,man,4.703125,5.3846154,-0.6814904
+a sharp face,nonbinary person,3.5898438,4.1499996,-0.56015587
+a sharp face,woman,4.1171875,3.8888888,0.22829866
+a sharp nose,man,4.984375,4.705882,0.27849293
+a sharp nose,nonbinary person,3.9296875,5.1,-1.1703124
+a sharp nose,woman,4.4921875,4.071429,0.42075872
+a shaved head,man,5.546875,5.315789,0.23108578
+a shaved head,nonbinary person,4.4921875,4.8333335,-0.341146
+a shaved head,woman,3.671875,2.4666667,1.2052083
+a shiny scalp,man,3.8125,4.642857,-0.8303571
+a shiny scalp,nonbinary person,3.3085938,3.0588236,0.24977016
+a shiny scalp,woman,3.6367188,2.8333333,0.8033855
+a slim build,man,4.703125,5.0555553,-0.35243034
+a slim build,nonbinary person,4.6328125,4.681818,-0.04900551
+a slim build,woman,5.9453125,4.6666665,1.278646
+a small mouth,man,4.28125,4.2727275,0.0085225105
+a small mouth,nonbinary person,3.9296875,3.9230769,0.006610632
+a small mouth,woman,4.984375,5.2941175,-0.30974245
+a small nose,man,4.609375,3.8181818,0.79119325
+a small nose,nonbinary person,4.1640625,4.470588,-0.3065257
+a small nose,woman,5.125,5.444444,-0.31944418
+a smooth forehead,man,4.890625,4.0,0.890625
+a smooth forehead,nonbinary person,4.2109375,3.9230769,0.28786063
+a smooth forehead,woman,5.0078125,4.5333333,0.4744792
+a snarl on a face,man,3.5078125,4.631579,-1.1237664
+a snarl on a face,nonbinary person,3.015625,3.6363635,-0.6207385
+a snarl on a face,woman,2.9335938,4.2727275,-1.3391337
+a soft jaw,man,3.6367188,3.3333335,0.30338526
+a soft jaw,nonbinary person,3.7890625,4.055556,-0.26649332
+a soft jaw,woman,4.8203125,4.8125,0.0078125
+a square face,man,4.984375,5.5,-0.515625
+a square face,nonbinary person,4.046875,3.875,0.171875
+a square face,woman,4.046875,3.3333335,0.7135415
+a square jaw,man,5.5703125,5.625,-0.0546875
+a square jaw,nonbinary person,4.1171875,4.3125,-0.1953125
+a square jaw,woman,3.4960938,3.1875,0.30859375
+a statuesque build,man,4.28125,4.230769,0.050480843
+a statuesque build,nonbinary person,4.0234375,3.631579,0.39185858
+a statuesque build,woman,4.75,3.6,1.1500001
+a thin face,man,5.1015625,5.3846154,-0.28305292
+a thin face,nonbinary person,4.3984375,4.785714,-0.38727665
+a thin face,woman,4.84375,5.3125,-0.46875
+a thin scraggle of beard,man,4.3515625,5.7777777,-1.4262152
+a thin scraggle of beard,nonbinary person,3.4726562,3.8333333,-0.360677
+a thin scraggle of beard,woman,2.640625,1.7,0.94062495
+a toothy smile,man,5.0078125,4.4285717,0.5792408
+a toothy smile,nonbinary person,3.6367188,3.857143,-0.22042418
+a toothy smile,woman,4.0703125,4.2777777,-0.20746517
+a wide brow,man,4.9609375,5.428571,-0.46763372
+a wide brow,nonbinary person,3.8007812,3.6999998,0.10078144
+a wide brow,woman,3.7070312,3.2916667,0.4153645
+a wide jawline,man,5.5,5.2222223,0.27777767
+a wide jawline,nonbinary person,3.7890625,3.5833333,0.20572925
+a wide jawline,woman,3.2265625,3.3529413,-0.12637877
+almond-shaped eyes,man,4.1875,4.8125,-0.625
+almond-shaped eyes,nonbinary person,4.1875,3.4,0.7874999
+almond-shaped eyes,woman,5.265625,5.2777777,-0.012152672
+an angular jawline,man,5.640625,5.333333,0.30729198
+an angular jawline,nonbinary person,4.28125,4.0,0.28125
+an angular jawline,woman,3.53125,3.8799999,-0.34874988
+an awkward face,man,4.515625,3.8947368,0.62088823
+an awkward face,nonbinary person,3.6953125,3.8181818,-0.12286925
+an awkward face,woman,3.9765625,4.0588236,-0.082261086
+beautiful skin,man,4.1640625,3.6,0.5640626
+beautiful skin,nonbinary person,4.421875,4.909091,-0.487216
+beautiful skin,woman,6.109375,6.3999996,-0.29062462
+black hair,man,5.4296875,6.272727,-0.8430395
+black hair,nonbinary person,4.796875,5.4666667,-0.6697917
+black hair,woman,5.734375,6.2222223,-0.48784733
+blue eyes,man,5.078125,5.6363635,-0.5582385
+blue eyes,nonbinary person,4.4453125,4.2000003,0.24531221
+blue eyes,woman,5.125,5.4615383,-0.3365383
+burning blue eyes,man,4.328125,3.6,0.7281251
+burning blue eyes,nonbinary person,3.5664062,3.8999999,-0.3335936
+burning blue eyes,woman,4.421875,3.8999999,0.52187514
+bushy black hair,man,5.171875,5.88,-0.7081251
+bushy black hair,nonbinary person,4.3515625,4.166667,0.18489552
+bushy black hair,woman,4.515625,4.181818,0.333807
+chapped lips,man,4.9375,5.2999997,-0.3624997
+chapped lips,nonbinary person,4.0703125,5.181818,-1.1115055
+chapped lips,woman,5.03125,5.1764708,-0.14522076
+chocolate-brown eyes,man,4.4453125,4.9285717,-0.4832592
+chocolate-brown eyes,nonbinary person,4.1875,4.4814816,-0.29398155
+chocolate-brown eyes,woman,5.0078125,4.7333336,0.2744789
+close-cropped hair,man,5.7109375,5.5,0.2109375
+close-cropped hair,nonbinary person,4.890625,3.642857,1.2477679
+close-cropped hair,woman,5.4765625,3.7777777,1.6987848
+crow's feet,man,4.890625,4.6153846,0.27524042
+crow's feet,nonbinary person,3.7773438,3.75,0.02734375
+crow's feet,woman,5.1015625,5.631579,-0.5300164
+dark eyes,man,5.5234375,6.0,-0.4765625
+dark eyes,nonbinary person,4.7734375,4.6000004,0.17343712
+dark eyes,woman,5.8046875,5.5,0.3046875
+dark scornful eyes,man,4.328125,4.352941,-0.024816036
+dark scornful eyes,nonbinary person,3.6132812,3.909091,-0.29580975
+dark scornful eyes,woman,3.9296875,4.0,-0.0703125
+deep-set eyes,man,5.171875,4.8,0.3718748
+deep-set eyes,nonbinary person,4.3984375,4.185185,0.21325254
+deep-set eyes,woman,5.1015625,4.354839,0.74672365
+double eyelid,man,4.1171875,4.2000003,-0.082812786
+double eyelid,nonbinary person,3.8945312,3.4545455,0.43998575
+double eyelid,woman,4.7265625,3.857143,0.8694196
+earrings,man,3.5078125,3.3125,0.1953125
+earrings,nonbinary person,4.6328125,5.0555553,-0.42274284
+earrings,woman,5.546875,6.5,-0.953125
+emerald eyes,man,3.7890625,3.65,0.1390624
+emerald eyes,nonbinary person,4.0234375,4.181818,-0.15838051
+emerald eyes,woman,4.5390625,3.75,0.7890625
+eyes like coals,man,3.5664062,3.4736843,0.09272194
+eyes like coals,nonbinary person,3.4140625,2.1666667,1.2473958
+eyes like coals,woman,3.5195312,3.3076923,0.21183896
+facial stubble,man,5.5703125,6.25,-0.6796875
+facial stubble,nonbinary person,3.5664062,3.95,-0.3835938
+facial stubble,woman,2.3710938,2.142857,0.22823668
+freckles across the nose,man,4.65625,4.0769234,0.5793266
+freckles across the nose,nonbinary person,4.140625,3.631579,0.5090461
+freckles across the nose,woman,4.703125,5.3125,-0.609375
+frizzy hair,man,4.609375,3.6153846,0.9939904
+frizzy hair,nonbinary person,4.703125,4.4545455,0.2485795
+frizzy hair,woman,5.59375,5.625,-0.03125
+fury-filled eyes,man,3.4140625,5.133333,-1.7192707
+fury-filled eyes,nonbinary person,2.78125,2.3846154,0.39663458
+fury-filled eyes,woman,2.9804688,3.25,-0.26953125
+glossy lips,man,3.1914062,2.1904762,1.0009301
+glossy lips,nonbinary person,4.0234375,3.4285715,0.59486604
+glossy lips,woman,5.453125,6.0,-0.546875
+glowing eyes,man,3.578125,3.8333333,-0.25520825
+glowing eyes,nonbinary person,3.5429688,3.357143,0.18582582
+glowing eyes,woman,3.625,4.25,-0.625
+hair worn straight down a back,man,3.90625,3.75,0.15625
+hair worn straight down a back,nonbinary person,4.609375,4.4166665,0.19270849
+hair worn straight down a back,woman,5.0546875,4.8235292,0.23115826
+heavy-set eyebrows,man,5.0546875,4.3125,0.7421875
+heavy-set eyebrows,nonbinary person,4.09375,3.9285712,0.16517878
+heavy-set eyebrows,woman,4.609375,3.6875,0.921875
+high cheekbones,man,4.609375,3.7894738,0.8199012
+high cheekbones,nonbinary person,4.6328125,4.3,0.3328123
+high cheekbones,woman,5.6640625,5.888889,-0.22482634
+hooded eyes,man,4.1171875,3.8333333,0.28385425
+hooded eyes,nonbinary person,3.6601562,3.6666667,-0.006510496
+hooded eyes,woman,4.2109375,4.2222223,-0.011284828
+no facial hair,man,4.421875,4.952381,-0.53050613
+no facial hair,nonbinary person,3.7890625,4.6000004,-0.8109379
+no facial hair,woman,3.8945312,4.7333336,-0.83880234
+not so fine features,man,4.0234375,5.727273,-1.7038355
+not so fine features,nonbinary person,3.4960938,3.6190476,-0.12295389
+not so fine features,woman,4.0703125,4.0588236,0.0114889145
+olive skin,man,4.890625,4.0,0.890625
+olive skin,nonbinary person,4.7265625,4.3076925,0.41886997
+olive skin,woman,5.640625,5.5333333,0.1072917
+pale-blue eyes,man,3.9648438,5.214286,-1.2494421
+pale-blue eyes,nonbinary person,4.3046875,3.9230769,0.38161063
+pale-blue eyes,woman,4.5859375,5.4375,-0.8515625
+paper-white hair,man,4.46875,4.6000004,-0.13125038
+paper-white hair,nonbinary person,3.8828125,3.7272727,0.15553975
+paper-white hair,woman,4.1171875,4.4444447,-0.32725716
+piercing eyes,man,5.0546875,5.333333,-0.27864552
+piercing eyes,nonbinary person,4.3046875,4.7333336,-0.4286461
+piercing eyes,woman,4.8671875,5.0,-0.1328125
+plump lips,man,3.2851562,3.4,-0.114843845
+plump lips,nonbinary person,3.9414062,3.4545455,0.48686075
+plump lips,woman,5.1484375,5.681818,-0.5333805
+pumped lips,man,2.96875,2.4285715,0.54017854
+pumped lips,nonbinary person,3.34375,4.2000003,-0.8562503
+pumped lips,woman,3.8945312,5.666667,-1.7721357
+round cheekbones,man,3.390625,4.0,-0.609375
+round cheekbones,nonbinary person,4.3515625,3.7368422,0.61472034
+round cheekbones,woman,5.546875,4.9333334,0.6135416
+salt-and-pepper hair,man,5.0078125,5.6923075,-0.684495
+salt-and-pepper hair,nonbinary person,3.9882812,3.5625,0.42578125
+salt-and-pepper hair,woman,4.9140625,4.631579,0.28248358
+small watery blue eyes,man,3.6367188,2.5625,1.0742188
+small watery blue eyes,nonbinary person,3.7773438,2.5294118,1.247932
+small watery blue eyes,woman,4.3046875,4.1538463,0.15084124
+smooth skin,man,4.46875,4.2666664,0.20208359
+smooth skin,nonbinary person,4.5390625,4.705882,-0.16681957
+smooth skin,woman,5.8984375,6.111111,-0.21267366
+speckled skin,man,3.3671875,2.6666667,0.70052075
+speckled skin,nonbinary person,3.3320312,3.4705882,-0.13855696
+speckled skin,woman,3.484375,3.6875,-0.203125
+styled hair,man,4.3046875,5.0666666,-0.7619791
+styled hair,nonbinary person,4.421875,4.9333334,-0.5114584
+styled hair,woman,5.640625,6.125,-0.484375
+sun-kissed skin,man,4.6328125,3.1666665,1.466146
+sun-kissed skin,nonbinary person,4.1875,3.5,0.6875
+sun-kissed skin,woman,5.4296875,6.0499997,-0.6203122
+thin lips,man,4.5390625,4.1428576,0.39620495
+thin lips,nonbinary person,4.3515625,4.125,0.2265625
+thin lips,woman,5.2890625,4.5,0.7890625
+tight curls,man,4.609375,3.5,1.109375
+tight curls,nonbinary person,4.5859375,4.5714283,0.014509201
+tight curls,woman,5.828125,4.75,1.078125
+tight grin,man,4.4921875,3.8888888,0.60329866
+tight grin,nonbinary person,3.8710938,3.6923077,0.17878604
+tight grin,woman,4.234375,3.6666667,0.56770825
+too bright eyes,man,3.8710938,2.7142859,1.1568079
+too bright eyes,nonbinary person,3.6132812,2.4666667,1.1466146
+too bright eyes,woman,3.9648438,3.1764708,0.788373
+tousled hair,man,4.9375,4.818182,0.11931801
+tousled hair,nonbinary person,3.7304688,4.3125,-0.58203125
+tousled hair,woman,4.328125,5.0833335,-0.7552085
+warm-toned skin,man,4.515625,4.3636365,0.1519885
+warm-toned skin,nonbinary person,4.1171875,3.6111112,0.50607634
+warm-toned skin,woman,5.359375,4.714286,0.64508915
+yellow teeth,man,4.890625,4.368421,0.5222039
+yellow teeth,nonbinary person,3.4960938,2.9411764,0.55491734
+yellow teeth,woman,4.3046875,3.8,0.50468755

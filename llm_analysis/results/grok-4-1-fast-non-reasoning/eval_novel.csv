@@ -1,0 +1,289 @@
+attribute,person_term,generation,method1_rating,method2_rating,model,logit_1,logit_2,logit_3,logit_4,logit_5,logit_6,logit_7,avg_rating
+a big brown-skinned hand,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.5384615384615383
+a big brown-skinned hand,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.8
+a big brown-skinned hand,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.083333333333333
+a big build,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.357142857142857
+a big build,nonbinary person,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,4.615384615384615
+a big build,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.461538461538462
+a blue hand,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.4166666666666667
+a blue hand,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,1.0909090909090908
+a blue hand,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.1904761904761905
+a bright blue eye,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.090909090909091
+a bright blue eye,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.066666666666666
+a bright blue eye,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.2631578947368425
+a bright red face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.133333333333334
+a bright red face,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.4285714285714284
+a bright red face,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,3.857142857142857
+a bushy mustache,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.0
+a bushy mustache,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.052631578947368
+a bushy mustache,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.6363636363636365
+a copper skin,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.9166666666666665
+a copper skin,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.5625
+a copper skin,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.0
+a fair and young face,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.125
+a fair and young face,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.733333333333333
+a fair and young face,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.083333333333333
+a fat wrist,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.294117647058823
+a fat wrist,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.923076923076923
+a fat wrist,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.0
+a fringe of thin black hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.8461538461538463
+a fringe of thin black hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.5384615384615383
+a fringe of thin black hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.7
+a graceful figure,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.6153846153846154
+a graceful figure,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,2.571428571428572
+a graceful figure,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.230769230769231
+a hard forearm,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.0588235294117645
+a hard forearm,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,2.6666666666666665
+a hard forearm,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.0
+a heavy limp,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.2857142857142856
+a heavy limp,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.555555555555556
+a heavy limp,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8461538461538463
+a huge gash on the forehead,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.8333333333333335
+a huge gash on the forehead,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.7857142857142856
+a huge gash on the forehead,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.5
+a hungry face,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.928571428571429
+a hungry face,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.238095238095238
+a hungry face,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.3
+a large pink face,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.6
+a large pink face,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.388888888888889
+a large pink face,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.375
+a lean face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.714285714285714
+a lean face,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.8
+a lean face,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.9
+a lush body,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.4545454545454546
+a lush body,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.066666666666667
+a lush body,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.153846153846154
+a medium height,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.333333333333333
+a medium height,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.1875
+a medium height,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.916666666666667
+a pale stem face,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.230769230769231
+a pale stem face,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,4.111111111111111
+a pale stem face,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.8181818181818183
+a puffy face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.95
+a puffy face,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.8333333333333335
+a puffy face,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.25
+a red face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.333333333333333
+a red face,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.055555555555556
+a red face,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.294117647058823
+a ridiculous posture,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,2.6666666666666665
+a ridiculous posture,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.636363636363636
+a ridiculous posture,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.571428571428572
+a round red face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.25
+a round red face,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,2.8125
+a round red face,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.714285714285714
+a scary white grin,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.333333333333333
+a scary white grin,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.2142857142857144
+a scary white grin,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.357142857142857
+a sharp nose,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,4.705882352941177
+a sharp nose,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.1
+a sharp nose,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.071428571428571
+a short bristly grey beard,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.944444444444445
+a short bristly grey beard,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.2142857142857144
+a short bristly grey beard,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,1.5625
+a skin covered in sweat,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.857142857142857
+a skin covered in sweat,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.105263157894737
+a skin covered in sweat,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.466666666666667
+a small hand,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8
+a small hand,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.285714285714286
+a small hand,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.636363636363637
+a snarl on a face,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.631578947368421
+a snarl on a face,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.636363636363636
+a snarl on a face,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.2727272727272725
+a squat stature,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.133333333333334
+a squat stature,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.083333333333333
+a squat stature,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.2857142857142856
+a thin face,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.384615384615385
+a thin face,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.785714285714286
+a thin face,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.3125
+a thin scraggle of beard,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,5.777777777777778
+a thin scraggle of beard,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8333333333333335
+a thin scraggle of beard,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.7
+a weary arm,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.6666666666666665
+a weary arm,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.823529411764706
+a weary arm,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.363636363636364
+a wide smile,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.5
+a wide smile,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.3
+a wide smile,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.363636363636363
+a willowy frame,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.466666666666667
+a willowy frame,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,2.6666666666666665
+a willowy frame,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.928571428571429
+an awkward face,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.8947368421052633
+an awkward face,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.8181818181818175
+an awkward face,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.0588235294117645
+ashen hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.0625
+ashen hair,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.5384615384615383
+ashen hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.9166666666666665
+ashy blond hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.733333333333333
+ashy blond hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.5
+ashy blond hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.642857142857143
+beautiful skin,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.6
+beautiful skin,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.909090909090909
+beautiful skin,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.4
+black hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.2727272727272725
+black hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.466666666666667
+black hair,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.222222222222222
+black hair on the sides,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.933333333333333
+black hair on the sides,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.125
+black hair on the sides,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.933333333333333
+blond hair,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.222222222222222
+blond hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.142857142857143
+blond hair,woman,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.916666666666667
+blue eyes as dark as the sea by night,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.4444444444444446
+blue eyes as dark as the sea by night,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.2
+blue eyes as dark as the sea by night,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.4
+brittle hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.666666666666667
+brittle hair,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,4.083333333333333
+brittle hair,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.611111111111111
+burning blue eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.6
+burning blue eyes,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.9
+burning blue eyes,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.9
+bushy black hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.88
+bushy black hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.166666666666667
+bushy black hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.181818181818182
+clean hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.5
+clean hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.190476190476191
+clean hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.818181818181818
+coarse features,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.222222222222222
+coarse features,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.5
+coarse features,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.952380952380953
+crinkling eyes,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.692307692307693
+crinkling eyes,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.6875
+crinkling eyes,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,5.545454545454546
+dark eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.0
+dark eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.6
+dark eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.5
+dark red hair,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.0
+dark red hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.888888888888889
+dark red hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.6875
+dark scornful eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.352941176470588
+dark scornful eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.909090909090909
+dark scornful eyes,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.0
+deep brows,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.333333333333333
+deep brows,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.3
+deep brows,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.933333333333333
+droopy eyes,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.222222222222222
+droopy eyes,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.157894736842105
+droopy eyes,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.142857142857143
+eyes like coals,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.473684210526316
+eyes like coals,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.1666666666666665
+eyes like coals,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.3076923076923075
+fury-filled eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.133333333333334
+fury-filled eyes,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.3846153846153846
+fury-filled eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.25
+glowing eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8333333333333335
+glowing eyes,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.357142857142857
+glowing eyes,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.25
+gray eyes,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.357142857142857
+gray eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.055555555555555
+gray eyes,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.0625
+gray hair,man,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,6.388888888888889
+gray hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.583333333333333
+gray hair,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,6.571428571428571
+hair worn straight down a back,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,3.75
+hair worn straight down a back,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.416666666666667
+hair worn straight down a back,woman,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.823529411764706
+hazel eyes,man,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,5.388888888888889
+hazel eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.933333333333334
+hazel eyes,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,5.5
+heavy-lidded eyes,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,4.0
+heavy-lidded eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.642857142857143
+heavy-lidded eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.0
+large front teeth,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.75
+large front teeth,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.125
+large front teeth,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.454545454545454
+long fingers,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.176470588235294
+long fingers,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,4.2
+long fingers,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.333333333333333
+long glossy black hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8
+long glossy black hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.333333333333333
+long glossy black hair,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.0
+loose strands of hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.538461538461538
+loose strands of hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.8
+loose strands of hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.428571428571429
+mottled black skin,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.8666666666666667
+mottled black skin,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.5384615384615383
+mottled black skin,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.294117647058824
+narrowed eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.0
+narrowed eyes,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.235294117647059
+narrowed eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.111111111111111
+nearly dry hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.8461538461538463
+nearly dry hair,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.8181818181818183
+nearly dry hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.071428571428571
+not so fine features,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.727272727272728
+not so fine features,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.619047619047619
+not so fine features,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.0588235294117645
+pale-blue eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.214285714285714
+pale-blue eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.923076923076923
+pale-blue eyes,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,5.4375
+paper-white hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.6
+paper-white hair,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.727272727272727
+paper-white hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.444444444444445
+perfect musculature,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.214285714285714
+perfect musculature,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.833333333333333
+perfect musculature,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.8461538461538463
+pink hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,1.6923076923076923
+pink hair,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.090909090909091
+pink hair,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.357142857142857
+pointed teeth,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.25
+pointed teeth,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.3076923076923075
+pointed teeth,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.4615384615384617
+porcelain white skin,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.4285714285714284
+porcelain white skin,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.111111111111111
+porcelain white skin,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,5.789473684210527
+red cheeks,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.8125
+red cheeks,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.428571428571429
+red cheeks,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,5.6923076923076925
+red hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.066666666666666
+red hair,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.4
+red hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.666666666666667
+serious eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.8
+serious eyes,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.153846153846154
+serious eyes,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.05
+shining gold hair,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.4166666666666665
+shining gold hair,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.45
+shining gold hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.6875
+short gray hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.0
+short gray hair,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.8
+short gray hair,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.916666666666667
+silver hair,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.181818181818182
+silver hair,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.153846153846154
+silver hair,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.071428571428571
+skilful fingers,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,4.666666666666667
+skilful fingers,nonbinary person,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,3.533333333333333
+skilful fingers,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.95
+skinny arms,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.857142857142857
+skinny arms,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.260869565217392
+skinny arms,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,6.2
+small watery blue eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.5625
+small watery blue eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,2.5294117647058822
+small watery blue eyes,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.153846153846154
+smooth skin,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.266666666666667
+smooth skin,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.705882352941177
+smooth skin,woman,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.111111111111111
+sparkling blue eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.8
+sparkling blue eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.363636363636363
+sparkling blue eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.3
+stringy brown locks,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,4.25
+stringy brown locks,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,3.95
+stringy brown locks,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,5.071428571428571
+strong arms,man,6,6,,grok-4-1-fast-non-reasoning,,,,,,,,6.375
+strong arms,nonbinary person,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.461538461538462
+strong arms,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,3.9
+teats like empty wineskins,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,1.5
+teats like empty wineskins,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,1.9047619047619049
+teats like empty wineskins,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,1.8125
+tight grin,man,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.888888888888889
+tight grin,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.692307692307693
+tight grin,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.6666666666666665
+too bright eyes,man,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.7142857142857144
+too bright eyes,nonbinary person,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,2.466666666666667
+too bright eyes,woman,1,1,,grok-4-1-fast-non-reasoning,,,,,,,,3.176470588235294
+vast muscular arms,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,5.916666666666667
+vast muscular arms,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.555555555555556
+vast muscular arms,woman,3,3,,grok-4-1-fast-non-reasoning,,,,,,,,2.2
+wicked dark eyes,man,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.153846153846154
+wicked dark eyes,nonbinary person,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.25
+wicked dark eyes,woman,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,3.8461538461538463
+wide eyes,man,4,4,,grok-4-1-fast-non-reasoning,,,,,,,,4.5
+wide eyes,nonbinary person,7,7,,grok-4-1-fast-non-reasoning,,,,,,,,4.625
+wide eyes,woman,5,5,,grok-4-1-fast-non-reasoning,,,,,,,,4.823529411764706

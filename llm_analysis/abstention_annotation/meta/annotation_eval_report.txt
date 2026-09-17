@@ -1,0 +1,62 @@
+=== Abstention annotation evaluation ===
+Mode: full
+Ground truth: /home/jiaqiz/alisa/GAPA/llm_analysis/abstention_annotation/combined_with_groundtruth.csv
+Annotators: 2
+Rows: 196
+Blank cells in annotator files are treated as 0.
+
+### Human label composition (blank = 0)
+
+- annotation_annotator1:
+  - abstention only: 21 (10.71%)
+  - caveat only: 76 (38.78%)
+  - both: 3 (1.53%)
+  - neither: 96 (48.98%)
+  Among human-positive rows (abstention + caveat >= 1):
+    - abstention only: 21 (21.00%)
+    - caveat only: 76 (76.00%)
+    - both: 3 (3.00%)
+  - caveat / abstention positive ratio: 3.2917 (79 caveat+ vs 24 abstention+)
+- annotation_annotator2:
+  - abstention only: 5 (2.55%)
+  - caveat only: 95 (48.47%)
+  - both: 2 (1.02%)
+  - neither: 94 (47.96%)
+  Among human-positive rows (abstention + caveat >= 1):
+    - abstention only: 5 (4.90%)
+    - caveat only: 95 (93.14%)
+    - both: 2 (1.96%)
+  - caveat / abstention positive ratio: 13.8571 (97 caveat+ vs 7 abstention+)
+
+### abstention column
+
+Per-annotator agreement with system_abstention:
+- annotation_annotator1: accuracy=62.24%, precision=1.0000, recall=0.2449, f1=0.3934
+- annotation_annotator2: accuracy=50.51%, precision=0.5714, recall=0.0408, f1=0.0762
+
+Inter-rater agreement:
+- mean_pairwise_agreement=85.20%
+- cohen_kappa=0.0098
+- krippendorff_alpha=-0.0158
+
+### caveat column
+
+Per-annotator agreement with system_abstention:
+- annotation_annotator1: accuracy=84.18%, precision=0.9241, recall=0.7449, f1=0.8249
+- annotation_annotator2: accuracy=91.33%, precision=0.9175, recall=0.9082, f1=0.9128
+
+Inter-rater agreement:
+- mean_pairwise_agreement=80.61%
+- cohen_kappa=0.6115
+- krippendorff_alpha=0.6082
+
+### combined (abstention + caveat >= 1; blank = 0)
+
+Per-annotator agreement with system_abstention:
+- annotation_annotator1: accuracy=94.90%, precision=0.9400, recall=0.9592, f1=0.9495
+- annotation_annotator2: accuracy=90.82%, precision=0.8922, recall=0.9286, f1=0.9100
+
+Inter-rater agreement:
+- mean_pairwise_agreement=85.71%
+- cohen_kappa=0.7140
+- krippendorff_alpha=0.7140

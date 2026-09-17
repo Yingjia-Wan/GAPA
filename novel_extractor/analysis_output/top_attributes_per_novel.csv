@@ -1,0 +1,61 @@
+novel_name,attribute,count,frequency
+gameofthrones1,red eyes,9,1.477832512315271
+gameofthrones1,green eyes,7,1.1494252873563218
+gameofthrones1,a pretty face,6,0.9852216748768473
+gameofthrones1,broad shoulders,5,0.8210180623973727
+gameofthrones1,blue eyes,5,0.8210180623973727
+gameofthrones1,wide eyes,5,0.8210180623973727
+gameofthrones1,long hair,4,0.6568144499178982
+gameofthrones1,strong hands,3,0.49261083743842365
+gameofthrones1,a red face,3,0.49261083743842365
+gameofthrones1,deep-set eyes,3,0.49261083743842365
+harrypotter1,red hair,3,3.8461538461538463
+harrypotter1,tall stature,2,2.564102564102564
+harrypotter1,thin physique,2,2.564102564102564
+harrypotter1,black hair,2,2.564102564102564
+harrypotter1,knobbly knees,2,2.564102564102564
+harrypotter1,a big hairy face,2,2.564102564102564
+harrypotter1,hardly any neck,1,1.282051282051282
+harrypotter1,a very large mustache,1,1.282051282051282
+harrypotter1,a wide smile,1,1.282051282051282
+harrypotter1,a squeaky voice,1,1.282051282051282
+hungergames1,blue eyes,4,5.797101449275362
+hungergames1,gray eyes,2,2.898550724637681
+hungergames1,pink hair,2,2.898550724637681
+hungergames1,green eyes,2,2.898550724637681
+hungergames1,red hair,2,2.898550724637681
+hungergames1,hunched shoulders,1,1.4492753623188406
+hungergames1,swollen knuckles,1,1.4492753623188406
+hungergames1,broken nails,1,1.4492753623188406
+hungergames1,sunken faces,1,1.4492753623188406
+hungergames1,straight black hair,1,1.4492753623188406
+lordoftherings1,keen eyes,5,4.587155963302752
+lordoftherings1,bright eyes,3,2.7522935779816518
+lordoftherings1,long fingers,2,1.834862385321101
+lordoftherings1,sharp ears,2,1.834862385321101
+lordoftherings1,curly head,2,1.834862385321101
+lordoftherings1,wide eyes,2,1.834862385321101
+lordoftherings1,clear eyes,2,1.834862385321101
+lordoftherings1,a red face,2,1.834862385321101
+lordoftherings1,a bright blue eye,2,1.834862385321101
+lordoftherings1,dark hair,2,1.834862385321101
+mazerunner,wide eyes,4,5.47945205479452
+mazerunner,a bright red face,3,4.10958904109589
+mazerunner,brown hair,2,2.73972602739726
+mazerunner,a red face,2,2.73972602739726
+mazerunner,a flushed red face,2,2.73972602739726
+mazerunner,blue eyes,2,2.73972602739726
+mazerunner,a tall kid,1,1.36986301369863
+mazerunner,blond hair,1,1.36986301369863
+mazerunner,a square jaw,1,1.36986301369863
+mazerunner,short-cropped hair,1,1.36986301369863
+twilight1,wide eyes,6,4.3478260869565215
+twilight1,light brown hair,3,2.1739130434782608
+twilight1,dark eyes,2,1.4492753623188406
+twilight1,flat black eyes,2,1.4492753623188406
+twilight1,intense eyes,2,1.4492753623188406
+twilight1,long hands,2,1.4492753623188406
+twilight1,a wide grin,2,1.4492753623188406
+twilight1,long hair,2,1.4492753623188406
+twilight1,short hair,1,0.7246376811594203
+twilight1,laugh lines,1,0.7246376811594203
